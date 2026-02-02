@@ -211,8 +211,8 @@
 <!-- AUTO-GENERATED START -->
 | 类别 | 开发者 | 项目名称 | 链接 | 简介 |
 |---|---|---|---|---|
+| 其他工具 | ifindev | fullstack-next-cloudflare | [fullstack-next-cloudflare](https://deepwiki.com/ifindev/fullstack-next-cloudflare) | 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready wit... |
 | 其他工具 | jingyaogong | minimind | [minimind](https://jingyaogong.github.io/minimind) | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
-| 学习工具 | jaywcjlove | linux-command | [linux-command](https://jaywcjlove.github.io/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux |
 | AI音频工具 | Fosowl | agenticSeek | [agenticSeek](http://agenticseek.tech) | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost... |
 | 开发者工具 | bkaradzic | bgfx | [bgfx](https://bkaradzic.github.io/bgfx/overview.html) | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. |
 | 其他工具 | easychen | one-person-businesses-methodology-v2.0 | [one-person-businesses-methodology-v2.0](https://ft07.com/opb-quick-start?mtm_campaign=github&mtm_kwd=opbmv2) | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 |
@@ -237,39 +237,21 @@
 | 其他工具 | Uriopass | Egregoria | [Egregoria](http://douady.paris/blog/) | 3D City Builder without a grid |
 | 开发者工具 | AnsGoo | openDataV | [openDataV](https://ansgoo.github.io/openDataV/) | OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化🌈开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。 |
 | 其他工具 | beilunyang | moepush | [moepush](https://moepush.app) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ |
-| 开发者工具 | 1c7 | chinese-independent-developer | [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
-| 其他工具 | timqian | chinese-independent-blogs | [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 中文独立博客列表 |
-| 其他工具 | zhuima | awesome-cloudflare | [awesome-cloudflare](https://cloudflare.chuhai.tools/) | ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. |
-| 其他工具 | greatghoul | remote-working | [remote-working](https://remote-china.com/) | 收集整理远程工作相关的资料 |
-| AI视频生成 | YSGStudyHards | DotNetGuide | [DotNetGuide](https://www.yuque.com/ysgstudyhard/da6e0c) | 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己... |
 | AI视频生成 | dreammis | social-auto-upload | [social-auto-upload](https://sap-doc.nasdaddy.com/) | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili |
-| 其他工具 | weijunext | indie-hacker-tools | [indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) | 收录独立开发者出海技术栈和工具 |
 | 其他工具 | guangzhengli | k8s-tutorials | [k8s-tutorials](https://guangzhengli.com/courses/kubernetes) | k8s tutorials ／ k8s 教程 |
-| 开发者工具 | killop | anything_about_game | [anything_about_game](https://github.com/killop/anything_about_game) | A wonderful list of Game Development resources. |
-| 其他工具 | naxiaoduo | 1000UserGuide | [1000UserGuide](https://1000userguide.com) | 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。 |
 | AI图像工具 | cirosantilli | china-dictatorship | [china-dictatorship](https://cirosantilli.com/china-dictatorship) | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文... |
 | 其他工具 | hua1995116 | indiehackers-steps | [indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) | 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。 |
-| 开发者工具 | yaolifeng0629 | Awesome-independent-tools | [Awesome-independent-tools](https://www.indietools.work) | 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools） |
 | 其他工具 | ChHsiching | GitHub-Chinese-Top-Charts | [GitHub-Chinese-Top-Charts](https://github.com/ChHsiching/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目。 |
-| 其他工具 | chenyl8848 | great-open-source-project | [great-open-source-project](https://chencoding.top:8090/#/) | 收集整理Github、Gitte上优秀的开源项目。 |
-| 开发者工具 | XiaomingX | indie-hacker-tools-plus | [indie-hacker-tools-plus](https://twitter.com/seclink) | 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for inde... |
-| 开发者工具 | jim-schwoebel | awesome_ai_agents | [awesome_ai_agents](https://agents.blog) | 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents. |
-| 开发者工具 | XiaomingX | 1000-chinese-independent-developer-plus | [1000-chinese-independent-developer-plus](https://twitter.com/seclink) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么；Chinese Independent Developers Projects List - Discover What Everyone Is Building 👩🏿‍💻👨🏾‍💻👩🏼... |
 | 其他工具 | zhaoolee | garss | [garss](https://zhaoolee.com/garss/) | Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页 |
 | 其他工具 | yuaotian | antigravity-proxy | [antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) | 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. ／ 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DL... |
-| 其他工具 | taielab | awesome-hacking-lists | [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) | A curated collection of top-tier penetration testing tools and productivity utilities across multiple domains. Join us to explore, contri... |
-| 其他工具 | iAmCorey | awesome-indie-hacker-tools | [awesome-indie-hacker-tools](https://aibest.tools) | 独立开发/出海开发相关技术栈及工具收录 / Find the best tools for indie hackers here |
 | 其他工具 | weijunext | landing-page-boilerplate | [landing-page-boilerplate](https://landingpage.weijunext.com/) | A versatile landing page boilerplate, ideal for various projects and marketing campaigns. |
-| 其他工具 | DennisThink | awesome_twitter_CN | [awesome_twitter_CN](https://github.com/DennisThink/awesome_twitter_CN) | 值得关注的中文twitter用户 |
 | 其他工具 | XiaomingX | ai-money-maker-handbook | [ai-money-maker-handbook](https://mp.jobleap4u.com/) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side g... |
 | 其他工具 | houyushan | telegram-groups-search | [telegram-groups-search](https://houyushan.github.io/telegram-groups-search/) | telegram群组，TG群组，电报群组 ： 已更新到15000+个 Telegram群 Telegram频道 电报群 电报频道 精选电报群 精选电报频道 优秀电报群 优秀电报频道，telegram groups search 电报群组搜索 电报群组推荐 电报频道搜索 电报... |
 | 其他工具 | yhy0 | ChYing | [ChYing](https://github.com/yhy0/ChYing) | 承影，愿你在光影之间，找到属于自己的锋芒。开源的类 BurpSuite 应用 ChYing — may you find your own edge between light and shadow. An open-source, BurpSuite-like appli... |
-| 开发者工具 | PennyJoly | linktre-tools | [linktre-tools](https://github.com/PennyJoly/linktre-tools) | 工具得心应手，出海说走就走！  本仓库为 节点导航站 站点仓库,主要围绕独立开发者技术工具、AI产品、跨境电商、自媒体人办公辅助工具进行收录，持续整理中......  欢迎提交 pr 和 issues 进行更新，每日持续关注。 |
 | AI图像工具 | vxiaozhi | vocabulary-book-by-deepseek | [vocabulary-book-by-deepseek](https://word.vxiaozhi.com/) | vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息／小智晖的AI单词库。 |
 | AI图像处理 | xiaobin(北京) | 灵象工具箱 | [灵象工具箱](https://www.lingxiangtools.top/) | AI智能图像处理工具，支持视频抠图、去水印等多种功能，批量操作无限制，本地模式保障隐私，适配win和mac平台。 |
 | 图片处理 | ShawnHacks(北京) | Bulk Resize Images Online | [Bulk Resize Images Online](https://bulkresizeimages.online/) | 批量调整多张图片大小，快速安全，完全在浏览器中运行，无需上传文件。 |
 | AI视频工具 | sing1ee(上海) | Sora Video Downloader | [Sora Video Downloader](https://soravideodownloader.com/) | 从共享链接下载Sora AI生成的视频，可获取原始提示和高质量视频文件。 |
-| AI内容汇总 | Leo(成都) | Gemini Storybook Gallery | [Gemini Storybook Gallery](https://geministorybook.gallery/) | Gemini Storybook汇总与分类平台，保留原生交互式阅读体验。 |
 | 格式转换 | Ethan Sunray | TO MD | [TO MD](https://tomd.io) | 支持多种格式转结构化Markdown，秒级转换，无需注册，长期免费，注重隐私安全。 |
 | AI图像处理 | Archer(北京) | AI照片渲染 | [AI照片渲染](https://www.aimage.top/) | 上传任意照片生成多种风格头像，满足各类社交平台头像需求。 |
 | AI辅助工具 | 黑查理(长沙) | 软著宝 | [软著宝](https://ruanzhubao.com) | AI生成全套软著材料，包括截图、鉴别文档、源代码等，高效便捷。 |
@@ -285,7 +267,6 @@
 | 实用小工具 | pandaupup(广州) | 实用小工具：时间格式转换和计算器 | [实用小工具：时间格式转换和计算器](https://time-to-decimal.org/) | 支持时分秒与小数双向转换、单位换算、考勤打卡四舍五入及工资计算等功能。 |
 | 文化推广 | LongZi(深圳) | 跟我学太极-陈式 | [跟我学太极-陈式](https://github.com/dream-approaching/taijiMini) | 微信小程序，以图文+视频呈现太极拳相关内容，推广太极拳文化。 |
 | 神经网络可视化 | 0x4c48 | PMoS | [PMoS](https://pmos.lohhhha.cn) | 神经网络模型可视化定义平台，助力开发者直观构建和查看神经网络模型。 |
-| 开源项目发掘 | zxcHolmes | Git Stars | [Git Stars](https://git-stars.org/) | 发掘热门、Stars数最多的GitHub开源项目仓库，方便开发者获取优质资源。 |
 | AI图像风格转换 | anywhereto(beijing) | scream ai | [scream ai](https://screamai.art/) | 将自拍照转化为电影感千禧年恐怖风照片，打造独特视觉风格。 |
 | 性能测试 | pandaupup | 毒蘑菇显卡测试 | [毒蘑菇显卡测试](https://volumeshaderbm.org/benchmark) | 浏览器内运行3D体积着色器测试GPU渲染能力，显示实时性能数据，支持结果分享与对比。 |
 | AI图片工具 | anywhereto(beijing) | banana nana ai | [banana nana ai](https://bananananoai.net/) | AI图片工具，支持AI换脸、清除背景、Y2K风格人像生成等功能。 |
@@ -336,11 +317,9 @@
 | AI检测 | 阿歪(上海) (Github: https://github.com/iyhub, Blog: https://iwhy.dev/) | AI Detector | [AI Detector](https://gptdetect.ai/) | 检查文本是否为AI生成。 |
 | AI图片编辑 | 阿歪(上海) (Github: https://github.com/iyhub, Blog: https://iwhy.dev/) | Image to Image | [Image to Image](https://imagetoimage.app/) | AI图片编辑。 |
 | 图片工具 | 阿歪(上海) (Github: https://github.com/iyhub, Blog: https://iwhy.dev/) | Image Describer | [Image Describer](https://imagedescriber.cc/) | 利用AI为图片生成智能描述。 |
-| 资源收集 | 阿歪(上海) (Github: https://github.com/iyhub, Blog: https://iwhy.dev/) | Liquid Glass HQ | [Liquid Glass HQ](https://liquidglasshq.com/) | 液态玻璃资源收集站。 |
 | 文件管理 | nnpyro(武汉) (Github: https://github.com/nnpyro1/SyncTunnel/, 博客: nnpyro.fwh.is) | SyncTunnel | [SyncTunnel](nnpyro.fwh.is) | 跨平台高效文件同步和远程管理软件。 |
 | 学习工具 | Ting | Turbo Learn | [Turbo Learn](https://turbo-learn.com/) | 从文档、图片、拼音文件生成笔记的AI学习工具网站。 |
 | 图片编辑 | Ting | nano banana | [nano banana](https://nano-banana.pro/) | AI驱动的图像编辑器。 |
-| 数据工具 | Ting | List Difference | [List Difference](https://list-difference.com/) | 数据比较工具，对两个列表执行SET操作，查找惟一项、交集和联合，提供高效的数据协调。 |
 | 文本生成 | Ting | ai review generator | [ai review generator](https://reviewgenerator.org/) | 生成商品评论的AI工具。 |
 | 视频工具 | Ethan Sunray | Sora Watermark Adder | [Sora Watermark Adder](https://sorawatermarkadder.org) | 为视频添加专业的Sora AI同款水印，浏览器本地完成，无需上传，保护隐私，永久免费。 |
 | 视频工具 | 饭特稀 (Github: https://github.com/shineforever) | Sora Watermark Remover | [Sora Watermark Remover](https://removemark.io) | Sora视频去水印，5秒内完成，操作简单。 |
@@ -359,17 +338,12 @@
 | 翻译插件（Slack） | Simon Liang | X-late | 无公开链接（Slack 插件市场可搜） | Slack 平台专用翻译插件，辅助跨语言沟通 |
 | 线上字幕编辑软件 | Simon Liang | Captioner | [Captioner](https://captioner.com) | 在线编辑视频字幕，提升字幕制作效率与准确性 |
 | 小票记账 App（iOS） | Simon Liang | ReceiptGenie | [ReceiptGenie](https://apps.apple.com/cn/app/receiptgenie/idxxxxxxxxx) | iOS 平台专用小票记账工具，便捷记录与管理消费凭证 |
-| 免费导航站收集 | - | webdirectorycenter.com | [webdirectorycenter.com](https://webdirectorycenter.com) | 收集100+免费导航站资源，助力网站提交与流量曝光 |
 | SNI伪造工具 | Space Time | Sheas Cealer | [Sheas Cealer](https://github.com/SpaceTimee/Sheas-Cealer) | 伪造工具，无需代理即可加速直连 Github、Steam、Pixiv 等网站。 |
-| 导航工具 | Corey Chiu | Best Directories | [Best Directories](https://bestdirectories.org) | 导航站合集，汇集各类优质导航站，方便用户发现好用的产品。 |
 | AI 视频生成 | Leo | TalkingAvatar | [TalkingAvatar](https://www.talkingavatar.ai/) | AI 数字人视频生成平台，支持多语言和个性化定制。 |
 | 开发效率工具 | 94R7 | SparkleEasy | [SparkleEasy](https://sparkleeasy.pages.dev/) | macOS 开发者的工具，一键生成更新配置并管理权限。 |
 | 内容摘要工具 | Zero24 | Recap | [Recap](https://recapall.app/) | Chrome 插件，将网页和 PDF 转为视觉摘要，适合学生和专业人士。 |
-| AI 工具导航 | Corey Chiu | AI Best Tools导航站 | [AI Best Tools](https://aibest.tools/) | 收录 AI 产品工具，帮助用户发现和使用优质 AI 产品。 |
-| 文件整理工具 | MrHuZhi | 文件禅 | [FileNeatAI](https://fileneatai.com/?lang=zh-cn) | AI 文件整理工具，自动分类并命名文件，提高管理效率。 |
 | 临时邮箱 | Ethan Sunray | Temp Mail | [Temp Mail](https://tempmail.la/) | 提供临时邮箱服务，保护隐私，避免垃圾邮件。 |
 | AI 内容检测 | Ethan Sunray | AI Detector | [AI Detector](https://aidetector.tech/) | 检测文本和图片是否由 AI 生成，支持 C2PA 内容验证。 |
-| 浏览器插件 | 小学后生 | X-Comfort-Browser | [X-Comfort-Browser](https://x-comfort-browser.xyz/) | 推特、知乎插件，模糊媒体资源并屏蔽广告，专注信息获取。 |
 | 看图工具 | JARK006 | jarkViewer | [jarkViewer](https://github.com/jark006/jarkViewer) | Windows 平台看图软件。 |
 | FTP 服务 | JARK006 | FtpServer | [FtpServer](https://github.com/jark006/FtpServer) | Windows 平台 FTP 服务器。 |
 | 天气小部件 | JARK006 | 小天气 | [小天气](https://github.com/jark006/weather_widget) | 安卓桌面天气小部件。 |
@@ -418,9 +392,7 @@
 | IP查询工具 | Frey | IP.IM | [IP.IM](https://ip.im) | 简洁准确的 IP 信息查询网站，支持 curl。 |
 | 许可证选择器 | 风巢森淼 | 开源许可证选择器 | [开源许可证选择器](https://open-source-license-chooser.toolsnav.top) | 提供用户友好的开源许可证选择工具，包括许可证比较和使用情况图表。 |
 | 填色生成 | yuesheng zheng | SoColoring | [SoColoring](https://www.socoloring.com) | AI 驱动的填色稿生成平台，支持文本生成和 AI 一键上色。 |
-| AI 导航站 | xiaocui723 | OkeiAI | [OkeiAI](https://okeiai.com) | AI 导航站，免费收录 AI 产品。 |
 | TTS 工具 | benjamin | TikTok Voice Generator | [TikTok Voice Generator](https://tiktokvoice.net) | TikTok 热门配音生成工具。 |
-| AI 产品目录 | Sawana Huang | SeeWhatNewAI | [SeeWhatNewAI](https://www.seewhatnewai.com) | 收集 AI 相关网站产品，分析产品的用户需求和解决方案。 |
 | 宝可梦生成器 | Ethan Sunray | Random Pokemon Generator | [Random Pokemon Generator](https://randompokemongenerator.me) | 随机生成宝可梦图片，支持 2D 和 3D 风格。 |
 | 标签管理 | Nebula | Tabbiy | [Tabbiy](https://tyruslockwood.github.io) | 浏览器标签管理扩展，支持自动分组和快捷切换标签。 |
 | JSON 处理工具 | loggerhead | JSON For You | [JSON For You](https://json4u.cn) | JSON 可视化工具，支持 JSON 格式化、美化、校验、比较及 CSV 互转。 |
@@ -443,7 +415,6 @@
 | OCR 识别 | jiangnanboy | 番石榴实验室 AI 智能应用 | [番石榴实验室](https://ai.maogoujiaoliuqi.com/) | 包含图片文字提取、OCR、表格识别、文档比对功能。 |
 | 酒店协议代码 | 诸葛子房 | Hotel Corporate Codes | [Hotel Corporate Codes](https://corporate-codes.online) | 提供酒店品牌的特别折扣代码，适用于企业员工预订。 |
 | 网站地图 | 风巢森淼 | sitemap 生成器 | [sitemap 生成器](https://sitemap.top) | 网站地图生成及数据分析平台。 |
-| 待办应用 | YiXinCoding | Kite 待办 | [Kite 待办](https://kite.kitlib.cn/) | 桌面待办清单应用，简洁轻量。 |
 | Emoji 搜索 | 0xJoanne | Emoji Spark | [Emoji Spark](https://emojispark.com) | AI Emoji 搜索工具。 |
 | AI 动漫生成 | 无名 | AI Anime Generator | [AI Anime Generator](https://aianimegen.org) | 免费的 AI 动漫图片生成器。 |
 | 文本对比工具 | 木木木 | Text Compare & Merge | [Text Compare & Merge](https://diffsuite.com) | 文本对比与合并工具。 |
@@ -451,12 +422,9 @@
 | SEO 知识分享 | shaoyangliu | 流沙 SEO | [流沙 SEO](https://liusha.com) | 分享谷歌 SEO 相关知识。 |
 | AI 辅助工具 | tutorial0 | 撩妹神器 | [撩妹神器](https://dirtypickuplines.org/) | AI 约会辅助工具，生成搭讪用语。 |
 | 字体生成器 | 风巢森淼 | 奇异字体生成器 | [奇异字体生成器](https://freakyfontgenerator.top) | 转换各种独特字体样式。 |
-| 书单推荐 | seeeeal | 下一本读什么 | [下一本读什么](https://xiayibendushenme.com/) | 汇总优质书单，按主题分类，帮助解决书荒。 |
-| AI 资料导航 | Airyland | Awesome Flux AI | [Awesome Flux AI](https://www.awesomefluxai.com) | Flux AI 资料导航。 |
 | 图片生成平台 | Ethan Sunray | Perchance AI | [Perchance AI](https://perchanceai.cc) | 提供 18 种 AI 图片生成器和多种绘画风格。 |
 | 收益计算器 | 诸葛子房 | TikTok 收益计算器 | [TikTok 收益计算器](https://tiktok-money-calculator.online/zh) | 估算 TikTok 发布视频的预期收益。 |
 | 待办管理 | 微芒不朽 | 微芒计划 | [微芒计划](https://kestrel-task.cn) | Windows 平台的待办效率管理工具，使用 Tauri 构建。 |
-| GPU 资源平台 | zane12580 | LLM GPU Helper | [LLM GPU Helper](https://llmgpuhelper.com) | 大模型资源平台，提供 GPU 内存计算和个性化模型推荐。 |
 | 配图识别 | biboom | 配图扫描 App | [配图扫描](https://github.com/li150/mapping_scanning) | 基于本地 OCR 的文字识别 App。 |
 | AI 工具导航 | Avery | AI Tool Trek | [AI Tool Trek](https://aitooltrek.com/) | AI 工具导航站及实时 AI 新闻预览。 |
 | 图标生成 | Airyland | Logo.surf | [Logo.surf](https://www.logo.surf) | 文字生成 Logo 和 Favicon 工具。 |
@@ -466,7 +434,6 @@
 | 同传工具 | zxcHolmes | SpeakGo | [SpeakGo](https://speakgo.app) | 实时同声传译工具。 |
 | IP 查询 | Airyland | IP.network | [IP.network](https://www.ip.network) | IP 地址查询工具。 |
 | DNS 查询 | Airyland | DNS.fish | [DNS.fish](https://dns.fish) | 域名 DNS 记录查询工具。 |
-| 风格固定库 | underwood | Midjourney Sref code 精选库 | [Midjourney Sref code 精选库](https://midjourneysref.com/) | 收集 Midjourney 的风格 sref code，方便新人或设计师检索。 |
 | 化妆品查询 | 0xJoanne | CosmeticCheck | [CosmeticCheck](https://www.cosmeticcheck.app) | 化妆品批号免费查询工具。 |
 | GPS 工具 | 7SaiWen | GPS测速仪 - 速度表 | [GPS测速仪](https://apps.apple.com/cn/app/id1497060416) | 跟踪速度和行程的 GPS 测速仪。 |
 | 域名查询 | Airyland | Query.Domains | [Query.Domains](https://query.domains) | 域名注册状态及 whois 批量查询工具。 |
@@ -498,24 +465,20 @@
 | AI 导航站 | AwesomeYang | AI WITH.ME | [AI WITH.ME](https://aiwith.me) | AI 产品导航站，自动化生成 AI 产品信息。 |
 | AI 滤镜 | Ethan Sunray | AI Filter | [AI Filter](https://aifilter.net) | 将照片变为多种风格的 AI 滤镜。 |
 | 内容创作平台 | Frank | 内容农场 | [内容农场](http://122.51.11.251:29189/home) | 用 AIGC 和自动化提升短视频内容产量。 |
-| 样式代码库 | xvoy | Midjourney 样式代码库 | [Midjourney 样式代码库](https://srefhunter.top/) | 收集各种社交平台的 Midjourney 样式代码。 |
 | 微信文章编辑器 | Honwhy Wang | mpmd | [mpmd](https://mpmd.pages.dev) | Markdown 编辑器，适合创作微信公众号文章。 |
 | 录制软件 | wtechtec | CraftRecord | [CraftRecord](https://github.com/WtecHtec/electron-react-record) | 鼠标跟随录制软件。 |
 | TTS 下载器 | Andres Rivas | 微软 TTS 文字转语音下载器 | [微软 TTS 下载器](https://www.microsoft-tts-downloader.com) | 支持微软 TTS 文字转语音的下载。 |
 | 称呼计算器 | 路人甲 | 亲戚称呼计算器 | [亲戚称呼计算器](https://passer-by.com/relationship/) | 中国亲戚关系计算器，帮助避免称呼错误。 |
 | 生词翻译工具 | Chaosflutter | Siphon 吸词 | [Siphon 吸词](https://siphon.ink/) | 浏览器插件，双击生词即可翻译并保存，支持复习记忆。 |
-| AI 信息平台 | Johnny Yang | AITOOLIST | [AITOOLIST](https://aitoolist.com/) | AI 信息聚合平台，便于获取所有 AI 资讯。 |
 | 视频下载器 | 不特定开发者 | m3u8下载器 | [m3u8下载器](https://github.com/youwen21/flybird-m3u8downloader) | 下载 m3u8 视频，支持批量检测 IPTV m3u8。 |
 | AI 图像生成 | Q-Sansan | PixarAI | [PixarAI](https://www.pixarai.com/) | 生成迪士尼风格的角色或宠物海报。 |
 | 直播平台 | hsslive | billd-live | [billd-live](https://live.hsslive.cn) | 仿 B 站的个人直播间。 |
 | 远程桌面 | hsslive | billd-desk | [billd-desk](https://desk.hsslive.cn) | 仿 todesk 的远程桌面工具。 |
 | 大小写转换 | August | Case Convert Online | [Case Convert Online](https://convertcase.indiehacker.online/) | 英文大小写转换工具。 |
-| 导航工具 | someu | AigoTools | [AigoTools](https://www.aigotools.com) | AI 自动收录网站信息的导航站。 |
 | Dubbo 管理软件 | qiaolin | Dubbo-Desktop-Manager | [Dubbo-Desktop-Manager](https://github.com/qiaolin-li/dubbo-desktop-manager) | Dubbo 桌面管理工具。 |
 | 去水印工具 | 诸葛子房 | 小红书去水印下载 | [去水印下载](https://www.xhs-download.online/) | 小红书图片、视频去水印下载工具。 |
 | 流程图工具 | 没想好 | MermaidHelp | [MermaidHelp](https://mermaid.shizhuoran.top/) | Mermaid + AI 绘制流程图工具。 |
 | 数据分析工具 | Civilpy | Trace | [Trace](https://github.com/yeayee/Trace) | QQ、微信记录分析和竞调数据分析工具。 |
-| AI 工具站 | Civilpy | aifly.tools | [aifly.tools](https://aifly.tools/) | 最全最新的 AI 工具站合集。 |
 | 批量图片生成 | 秦少卫 | 快图批量图片设计 | [快图](https://www.kuaitu.cc/) | 表格与设计模板生成图片的工具。 |
 | HTML 转图像 | Godow | html2image | [html2image](https://html2image.online/) | 将 HTML 和 CSS 转换为图像文件（SVG、PNG、JPEG）。 |
 | 图片处理 | jpgHi / IDjpg | jpgHi 图片放大 | [jpgHi](https://jpghi.com) | 无损放大和增强图片的工具。 |
@@ -528,17 +491,14 @@
 | 语言陪练 | 刚师傅 | 好说 | [好说](https://haoshuo.cc/) | 二次元 AI 口语陪练，支持多语言。 |
 | 便签小工具 | 倒霉狐狸 | 便签喵 | [便签喵](https://www.zhimiaox.cn/images/bqm.jpg) | 桌面便签和待办的微信小程序。 |
 | 倒数日小组件 | Yefei | 倒数鸭 | [倒数鸭](https://apps.apple.com/cn/app/%E5%80%92%E6%95%B0%E9%B8%AD/id6457201223) | 纪念日倒数显示小组件。 |
-| 在线工具大全 | 诸葛喵 | 千盒工具 | [千盒工具](https://1000tool.com/) | 包含图片、视频、文本、办公、开发等在线工具大全。 |
 | 漫画翻译 | sagasu | AIMangaTranslator | [AIMangaTranslator](https://aimangatranslator.com/) | AI 漫画翻译工具。 |
 | 数据库管理 | Dataflare | Dataflare | [Dataflare](https://dataflare.app) | 支持多种数据库的管理工具。 |
-| 日语学习工具 | luhaifeng666 | Bunpou | [Bunpou](https://luhaifeng666.github.io/bunpou/) | 日语语法整理工具，包含 N5-N1 级别语法。 |
 | 假名练习工具 | luhaifeng666 | Kana playground | [Kana playground](https://luhaifeng666.github.io/kana-playground/) | 日语假名学习平台。 |
 | 教学管理 | wells2333 | sg-exam | [sg-exam](https://yunmianshi.com.cn/#/home) | 教学管理平台，支持在线考试和互动学习。 |
 | 媒体播放器 | nini22P | OMP | [OMP](https://nini22p.github.io/omp/) | 网页端 OneDrive 媒体播放器。 |
 | 定时器 | gofxas | 厨房定时器 | [厨房定时器](https://timing.cpdd.cool/) | 针对移动端设计的滑动操作定时器。 |
 | APK 下载站 | fengmao | APK DOWNLOAD | [APK DOWNLOAD](https://apk.bot/) | 安卓 APK 下载站，免费无广告，替代 Google Play Store。 |
 | 简历设计工具 | hacker233 | 91化简 | [91化简](https://91huajian.cn/) | 开源简历设计工具，支持导出高清 PDF 和 JSON。 |
-| 项目列表 | kisslove | 中国独立开发者项目列表 | [项目列表](https://developer.hubing.online/home) | 网页版中国独立开发者项目列表，非商业化项目。 |
 | 颜色工具 | azhubaby | 中国色 | [中国色](https://chinese-colors.com) | 提供中国传统色的颜色工具。 |
 | 说唱生成 | bairdhh | Rap Generator | [Rap Generator](https://rapgenerator.net/) | 免费 AI 工具，生成说唱歌词和歌曲。 |
 | 乐高生成器 | Q-Sansan | Brick Center | [Brick Center](https://www.brickcenter.net/) | AI 乐高生成器，可自动生成乐高设计图和头像。 |
@@ -578,9 +538,7 @@
 | 词汇助手 | Honwhy Wang | 新百词斩助手 | [新百词斩助手](https://100-words.pages.dev/) | 百词斩网页助手，支持翻译和单词收藏。 |
 | 思维脑图 | ChengKeJ | smind.app | [smind.app](https://www.smind.app) | 思维脑图应用，支持自定义主题、禅定模式、导出导入等功能。 |
 | 工具箱 | mydearcc | fly63 工具箱 | [fly63 工具箱](https://www.fly63.com/tool/home.html) | 在线工具箱集合，提供开发文档、加密解密、格式转换等功能。 |
-| 资源搜索 | lee森 | haiwai | [haiwai](https://haiwai.info) | 搜索海外的电影、动画、电视剧等娱乐资源。 |
 | 背景音乐 | Shichao | sunost | [sunost](https://sunost.com) | 为电影、游戏、短视频生成无版权背景音乐的工具。 |
-| AI 工具导航 | Shichao | toolss.ai | [toolss.ai](https://www.toolss.ai) | 收录 12000+ 个 AI 工具，支持分类搜索。 |
 | 数据可视化 | eilong | ViBoard | [ViBoard](https://nniai.com) | 跨平台数据可视化工具，支持高端图表展示。 |
 | 诗词学习 | javayhu | 海棠诗社 | [海棠诗社](https://haitang.app) | 古诗词学习和创作平台，支持全局搜索和暗黑模式。 |
 | 开发者导航 | javayhu | 独立开发者导航站 | [独立开发者导航站](https://www.indiehackers.site) | 为独立开发者汇集各种产品工具和指南。 |
@@ -596,7 +554,6 @@
 | 屏保工具 | 阿禅 Jason Ng | Macify | [Macify](https://chromewebstore.google.com/detail/macify-macos-screensaver/lgdipcalomggcjkohjhkhkbcpgladnoe?hl=en) | 将 Chrome 新标签页变成 macOS 屏保样式。 |
 | 退休计算 | 阿禅 Jason Ng | 躺平计算器 | [躺平计算器](https://retire.money/) | 根据资产和通胀率计算退休可行性。 |
 | DIY应用 | 爱心发电丶 | 万物皆可DIY | [万物皆可DIY](https://douyin.nicen.cn/m.html) | 在线 DIY 制作手机壳、衣服、抱枕等物品。 |
-| SaaS导航 | seven | SaaStores | [SaaStores](https://sasstores.top/) | 收录优质 SaaS 软件和 AI 知识的导航站。 |
 | 社交工具 | BindBook | BindBook | [BindBook](https://s21.ax1x.com/2024/03/31/pF7mmKx.png) | 社交关系记录小程序，提供倒数日提醒等功能。 |
 | 旅行相册 | H寒峰 | TTW: Travel Memoir | [TTW](https://apps.apple.com/us/app/ttw-travel-memoir-from-photos/id6473322389) | 旅行相册生成工具，通过照片生成旅行时间线。 |
 | 围棋连线 | 奔跑的小山猪 | 阿Q连线器 | [阿Q连线器](https://www.pgyer.com/connector) | 通用围棋 AI 连线器，适合看棋和学习。 |
@@ -721,7 +678,6 @@
 | 用药查询 | 叫我强哥 | 不懂药问 | [不懂药问](https://www.v2ex.com/t/962506) | 查询医保用药的微信小程序。 |
 | 图片压缩 | Dreamer365 | 极速图片压缩器 | [极速图片压缩器](https://github.com/Dreamer365/topspeed-image-compressor) | 速度极快的图片压缩软件。 |
 | DevOps 工具 | booboosui | DevOpsGPT | [DevOpsGPT](http://www.kuafuai.net/devopsgpt) | 将需求转化为可工作软件的 AI 工具。 |
-| 文件管理 | Thawne | SimpleList | [SimpleList](https://github.com/aiguoli/SimpleList) | OneDrive 文件管理工具。 |
 | 塔罗占卜 | discountry | SigniFi | [SigniFi](https://www.signifi.life/) | AI 塔罗牌占卜 DApp。 |
 | 背单词 | heygsc | 单词之风 | [单词之风](https://word-wind.pages.dev/) | 简洁的背单词页面，词库丰富。 |
 | AI 绘图 | 五块一 | 机画师 | [机画师](https://apps.apple.com/us/app/id1644645946) | 基于 Stable Diffusion 的 AI 绘图 App。 |
@@ -732,7 +688,6 @@
 | 预测跟踪 | 张土福 | Foresee | [Foresee](https://apps.apple.com/cn/app/foresee-predictions-tracker/id6447700092) | 预测跟踪应用，帮助提升判断力。 |
 | 白噪音工具 | GGBond | 雨巷 | [雨巷](https://apps.apple.com/us/app/%E9%9B%A8%E5%B7%B7/id1619940076) | 专为程序员设计的白噪音工具。 |
 | 心情记录 | Patrick | MoodUp | [MoodUp](https://apps.apple.com/us/app/moodup-breeze-mental-health/id6450100126) | 记录心情和情绪管理的日记 App。 |
-| 前端视觉 | River | visualization-collection | [visualization-collection](http://hepengwei.cn) | 包含 CSS 动效和 AI 应用的前端视觉效果集合。 |
 | ChatGPT 客户端 | Airsaid | ChatBoost | [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) | Android 原生 ChatGPT 客户端。 |
 | 数字拼图 | Airsaid | 数字华容道 | [数字华容道](https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle) | 经典数字拼图智力小游戏。 |
 | 休闲游戏 | Airsaid | 点点 | [点点](https://play.google.com/store/apps/details?id=com.mugglegame.dotdot) | 连点成线的休闲小游戏。 |
