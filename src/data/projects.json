@@ -1,0 +1,4802 @@
+[
+  {
+    "category": "其他工具",
+    "developer": "ifindev",
+    "name": "fullstack-next-cloudflare",
+    "url": "https://deepwiki.com/ifindev/fullstack-next-cloudflare",
+    "description": "🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready wit...",
+    "stars": 1224,
+    "pushed_at": "2025-12-08T01:45:01Z",
+    "homepage": "https://deepwiki.com/ifindev/fullstack-next-cloudflare"
+  },
+  {
+    "category": "其他工具",
+    "developer": "jingyaogong",
+    "name": "minimind",
+    "url": "https://jingyaogong.github.io/minimind",
+    "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+    "stars": 38486,
+    "pushed_at": "2026-01-30T12:30:57Z",
+    "homepage": "https://jingyaogong.github.io/minimind"
+  },
+  {
+    "category": "AI音频工具",
+    "developer": "Fosowl",
+    "name": "agenticSeek",
+    "url": "http://agenticseek.tech",
+    "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost...",
+    "stars": 24882,
+    "pushed_at": "2025-11-15T13:56:20Z",
+    "homepage": "http://agenticseek.tech"
+  },
+  {
+    "category": "开发者工具",
+    "developer": "bkaradzic",
+    "name": "bgfx",
+    "url": "https://bkaradzic.github.io/bgfx/overview.html",
+    "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+    "stars": 16677,
+    "pushed_at": "2026-01-31T04:28:41Z",
+    "homepage": "https://bkaradzic.github.io/bgfx/overview.html"
+  },
+  {
+    "category": "其他工具",
+    "developer": "easychen",
+    "name": "one-person-businesses-methodology-v2.0",
+    "url": "https://ft07.com/opb-quick-start?mtm_campaign=github&mtm_kwd=opbmv2",
+    "description": "《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。",
+    "stars": 12896,
+    "pushed_at": "2025-10-10T08:52:25Z",
+    "homepage": "https://ft07.com/opb-quick-start?mtm_campaign=github&mtm_kwd=opbmv2"
+  },
+  {
+    "category": "其他工具",
+    "developer": "MightyMoud",
+    "name": "sidekick",
+    "url": "https://www.sidekickdeploy.com",
+    "description": "Bare metal to production ready in mins; your own fly server on your VPS.",
+    "stars": 7312,
+    "pushed_at": "2026-01-06T08:11:37Z",
+    "homepage": "https://www.sidekickdeploy.com"
+  },
+  {
+    "category": "开发者工具",
+    "developer": "mangiucugna",
+    "name": "json_repair",
+    "url": "https://pypi.org/project/json-repair/",
+    "description": "A python module to repair invalid JSON from LLMs",
+    "stars": 4451,
+    "pushed_at": "2026-02-02T05:46:04Z",
+    "homepage": "https://pypi.org/project/json-repair/"
+  },
+  {
+    "category": "其他工具",
+    "developer": "lilishop",
+    "name": "lilishop",
+    "url": "https://pickmall.cn",
+    "description": "开源商城 JAVA商城 多语言商城 分销商城  uniapp商城 小程序商城  SAAS商城",
+    "stars": 4097,
+    "pushed_at": "2026-01-08T08:37:29Z",
+    "homepage": "https://pickmall.cn"
+  },
+  {
+    "category": "开发者工具",
+    "developer": "cristianbote",
+    "name": "goober",
+    "url": "https://goober.rocks",
+    "description": "🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API",
+    "stars": 3250,
+    "pushed_at": "2026-02-01T09:12:17Z",
+    "homepage": "https://goober.rocks"
+  },
+  {
+    "category": "其他工具",
+    "developer": "zhangchenchen",
+    "name": "self-consistent-coder",
+    "url": "https://www.dev-life.site/",
+    "description": "如何成为一名自洽的程序员",
+    "stars": 3060,
+    "pushed_at": "2025-09-09T14:30:09Z",
+    "homepage": "https://www.dev-life.site/"
+  },
+  {
+    "category": "开发者工具",
+    "developer": "trungvose",
+    "name": "angular-spotify",
+    "url": "http://spotify.trungk18.com/",
+    "description": "Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng-zorro",
+    "stars": 2769,
+    "pushed_at": "2025-11-29T05:58:18Z",
+    "homepage": "http://spotify.trungk18.com/"
+  },
+  {
+    "category": "其他工具",
+    "developer": "chinchang",
+    "name": "web-maker",
+    "url": "https://webmaker.app",
+    "description": "A blazing fast & offline frontend playground",
+    "stars": 2670,
+    "pushed_at": "2026-02-01T11:30:41Z",
+    "homepage": "https://webmaker.app"
+  },
+  {
+    "category": "AI音频工具",
+    "developer": "CharlesPikachu",
+    "name": "musicdl",
+    "url": "https://musicdl.readthedocs.io/",
+    "description": "Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili音乐，喜马拉雅FM，荔枝FM，...",
+    "stars": 2520,
+    "pushed_at": "2026-02-01T20:53:01Z",
+    "homepage": "https://musicdl.readthedocs.io/"
+  },
+  {
+    "category": "AI图像工具",
+    "developer": "songguoxs",
+    "name": "gpt4o-image-prompts",
+    "url": "https://opennana.com/awesome-prompt-gallery/",
+    "description": "Nano Banana(nanobanana),GPT-5(GPT5),GPT-4o(GPT4o) Image Prompts，Nanobanana Prompts，nanobanana提示词",
+    "stars": 2503,
+    "pushed_at": "2026-01-08T13:39:25Z",
+    "homepage": "https://opennana.com/awesome-prompt-gallery/"
+  },
+  {
+    "category": "开发者工具",
+    "developer": "hafrey1",
+    "name": "LunaTV-config",
+    "url": "https://pz.v88.qzz.io",
+    "description": "MoonTV/LunaTV源配置，每日自动检测API状态，可在CF部署CORSAPI中转被墙API，本人提供的CORSAPI仅为测试使用，请勿滥用！",
+    "stars": 2475,
+    "pushed_at": "2026-02-01T17:33:45Z",
+    "homepage": "https://pz.v88.qzz.io"
+  },
+  {
+    "category": "其他工具",
+    "developer": "xavier150",
+    "name": "Blender-For-UnrealEngine-Addons",
+    "url": "https://www.xavierloux.com/",
+    "description": "I have created this addons for export asset from Blender to Unreal Engine",
+    "stars": 2444,
+    "pushed_at": "2026-01-28T01:13:22Z",
+    "homepage": "https://www.xavierloux.com/"
+  },
+  {
+    "category": "其他工具",
+    "developer": "trungvose",
+    "name": "jira-clone-angular",
+    "url": "https://jira.trungk18.com",
+    "description": "A simplified Jira clone built with Angular, ng-zorro and Akita",
+    "stars": 2264,
+    "pushed_at": "2025-07-19T06:30:19Z",
+    "homepage": "https://jira.trungk18.com"
+  },
+  {
+    "category": "其他工具",
+    "developer": "handzlikchris",
+    "name": "FastScriptReload",
+    "url": "https://immersivevrtools.com/projects/fast-script-reload",
+    "description": "Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make ch...",
+    "stars": 2110,
+    "pushed_at": "2025-08-10T10:34:50Z",
+    "homepage": "https://immersivevrtools.com/projects/fast-script-reload"
+  },
+  {
+    "category": "AI音频工具",
+    "developer": "hainguyents13",
+    "name": "mechvibes",
+    "url": "https://mechvibes.com",
+    "description": "Mechvibes",
+    "stars": 2107,
+    "pushed_at": "2026-01-22T00:08:24Z",
+    "homepage": "https://mechvibes.com"
+  },
+  {
+    "category": "其他工具",
+    "developer": "beilunyang",
+    "name": "moemail",
+    "url": "https://moemail.app",
+    "description": "一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 ／ A cute temporary email service built with NextJS + Cloudflare technology stack 🎉",
+    "stars": 1899,
+    "pushed_at": "2026-01-29T13:01:59Z",
+    "homepage": "https://moemail.app"
+  },
+  {
+    "category": "开发者工具",
+    "developer": "brandonyoungdev",
+    "name": "tldx",
+    "url": "https://brandonyoung.dev/blog/introducing-tldx/",
+    "description": "Domain Availability Research Tool",
+    "stars": 1767,
+    "pushed_at": "2026-01-30T07:45:17Z",
+    "homepage": "https://brandonyoung.dev/blog/introducing-tldx/"
+  },
+  {
+    "category": "其他工具",
+    "developer": "mcuking",
+    "name": "mobile-web-best-practice",
+    "url": "https://mcuking.github.io/mobile-web-best-practice",
+    "description": ":tiger: 移动 web 最佳实践",
+    "stars": 1749,
+    "pushed_at": "2026-01-21T23:56:37Z",
+    "homepage": "https://mcuking.github.io/mobile-web-best-practice"
+  },
+  {
+    "category": "效率工具",
+    "developer": "cdevroe",
+    "name": "unmark",
+    "url": "https://unmark.it",
+    "description": "An open source to do app for bookmarks.",
+    "stars": 1624,
+    "pushed_at": "2025-10-07T11:58:25Z",
+    "homepage": "https://unmark.it"
+  },
+  {
+    "category": "其他工具",
+    "developer": "Uriopass",
+    "name": "Egregoria",
+    "url": "http://douady.paris/blog/",
+    "description": "3D City Builder without a grid",
+    "stars": 1617,
+    "pushed_at": "2025-06-02T12:00:14Z",
+    "homepage": "http://douady.paris/blog/"
+  },
+  {
+    "category": "开发者工具",
+    "developer": "AnsGoo",
+    "name": "openDataV",
+    "url": "https://ansgoo.github.io/openDataV/",
+    "description": "OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化🌈开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。",
+    "stars": 1344,
+    "pushed_at": "2025-07-12T13:47:52Z",
+    "homepage": "https://ansgoo.github.io/openDataV/"
+  },
+  {
+    "category": "其他工具",
+    "developer": "beilunyang",
+    "name": "moepush",
+    "url": "https://moepush.app",
+    "description": "一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨",
+    "stars": 1262,
+    "pushed_at": "2025-05-10T11:42:44Z",
+    "homepage": "https://moepush.app"
+  },
+  {
+    "category": "AI视频生成",
+    "developer": "dreammis",
+    "name": "social-auto-upload",
+    "url": "https://sap-doc.nasdaddy.com/",
+    "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+    "stars": 8346,
+    "pushed_at": "2025-12-09T07:01:10Z",
+    "homepage": "https://sap-doc.nasdaddy.com/"
+  },
+  {
+    "category": "其他工具",
+    "developer": "guangzhengli",
+    "name": "k8s-tutorials",
+    "url": "https://guangzhengli.com/courses/kubernetes",
+    "description": "k8s tutorials ／ k8s 教程",
+    "stars": 5703,
+    "pushed_at": "2025-11-17T02:05:42Z",
+    "homepage": "https://guangzhengli.com/courses/kubernetes"
+  },
+  {
+    "category": "AI图像工具",
+    "developer": "cirosantilli",
+    "name": "china-dictatorship",
+    "url": "https://cirosantilli.com/china-dictatorship",
+    "description": "反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文...",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "其他工具",
+    "developer": "hua1995116",
+    "name": "indiehackers-steps",
+    "url": "https://github.com/hua1995116/indiehackers-steps",
+    "description": "《独立开发者的艺术》打造最全的独立开发者指南，一人公司。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "其他工具",
+    "developer": "ChHsiching",
+    "name": "GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/ChHsiching/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "其他工具",
+    "developer": "zhaoolee",
+    "name": "garss",
+    "url": "https://zhaoolee.com/garss/",
+    "description": "Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页",
+    "stars": 1344,
+    "pushed_at": "2026-02-01T22:09:35Z",
+    "homepage": "https://zhaoolee.com/garss/"
+  },
+  {
+    "category": "其他工具",
+    "developer": "yuaotian",
+    "name": "antigravity-proxy",
+    "url": "https://github.com/yuaotian/antigravity-proxy",
+    "description": "🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. ／ 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DL...",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "其他工具",
+    "developer": "weijunext",
+    "name": "landing-page-boilerplate",
+    "url": "https://landingpage.weijunext.com/",
+    "description": "A versatile landing page boilerplate, ideal for various projects and marketing campaigns.",
+    "stars": 1253,
+    "pushed_at": "2026-01-17T14:44:36Z",
+    "homepage": "https://landingpage.weijunext.com/"
+  },
+  {
+    "category": "其他工具",
+    "developer": "XiaomingX",
+    "name": "ai-money-maker-handbook",
+    "url": "https://mp.jobleap4u.com/",
+    "description": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side g...",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "其他工具",
+    "developer": "houyushan",
+    "name": "telegram-groups-search",
+    "url": "https://houyushan.github.io/telegram-groups-search/",
+    "description": "telegram群组，TG群组，电报群组 ： 已更新到15000+个 Telegram群 Telegram频道 电报群 电报频道 精选电报群 精选电报频道 优秀电报群 优秀电报频道，telegram groups search 电报群组搜索 电报群组推荐 电报频道搜索 电报...",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "其他工具",
+    "developer": "yhy0",
+    "name": "ChYing",
+    "url": "https://github.com/yhy0/ChYing",
+    "description": "承影，愿你在光影之间，找到属于自己的锋芒。开源的类 BurpSuite 应用 ChYing — may you find your own edge between light and shadow. An open-source, BurpSuite-like appli...",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像工具",
+    "developer": "vxiaozhi",
+    "name": "vocabulary-book-by-deepseek",
+    "url": "https://word.vxiaozhi.com/",
+    "description": "vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息／小智晖的AI单词库。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像处理",
+    "developer": "xiaobin(北京)",
+    "name": "灵象工具箱",
+    "url": "https://www.lingxiangtools.top/",
+    "description": "AI智能图像处理工具，支持视频抠图、去水印等多种功能，批量操作无限制，本地模式保障隐私，适配win和mac平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片处理",
+    "developer": "ShawnHacks(北京)",
+    "name": "Bulk Resize Images Online",
+    "url": "https://bulkresizeimages.online/",
+    "description": "批量调整多张图片大小，快速安全，完全在浏览器中运行，无需上传文件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI视频工具",
+    "developer": "sing1ee(上海)",
+    "name": "Sora Video Downloader",
+    "url": "https://soravideodownloader.com/",
+    "description": "从共享链接下载Sora AI生成的视频，可获取原始提示和高质量视频文件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "格式转换",
+    "developer": "Ethan Sunray",
+    "name": "TO MD",
+    "url": "https://tomd.io",
+    "description": "支持多种格式转结构化Markdown，秒级转换，无需注册，长期免费，注重隐私安全。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像处理",
+    "developer": "Archer(北京)",
+    "name": "AI照片渲染",
+    "url": "https://www.aimage.top/",
+    "description": "上传任意照片生成多种风格头像，满足各类社交平台头像需求。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI辅助工具",
+    "developer": "黑查理(长沙)",
+    "name": "软著宝",
+    "url": "https://ruanzhubao.com",
+    "description": "AI生成全套软著材料，包括截图、鉴别文档、源代码等，高效便捷。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像处理",
+    "developer": "Ryan",
+    "name": "图像去模糊",
+    "url": "https://unblurimg.ai/",
+    "description": "人工智能消除图像模糊，恢复清晰度和细节，即时提升照片质量，修复模糊内容。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图片编辑",
+    "developer": "Jali",
+    "name": "NanaVis",
+    "url": "https://nanavis.com/zh",
+    "description": "基于Nano Banana的AI图片编辑工具，提供智能图像编辑功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像工作室",
+    "developer": "Leon(杭州)",
+    "name": "AI-NanoBanana",
+    "url": "https://www.ai-nanobanana.net/",
+    "description": "AI图像工作室，助力用户将创意快速转化为高质量视觉作品。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "在线工具",
+    "developer": "pillow(重庆)",
+    "name": "Teleprompter",
+    "url": "https://teleprompteronline.org",
+    "description": "在线提词器，适用于视频创作者、演讲者和教育工作者，满足提词需求。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI视频生成",
+    "developer": "詹姆斯 周",
+    "name": "sora2ai.ai",
+    "url": "https://sora2ai.ai",
+    "description": "最新AI视频生成模型，可创建含同步音频、对话和效果的逼真且物理准确的视频。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像编辑",
+    "developer": "fanison(北京)",
+    "name": "NanoImg",
+    "url": "https://nanoimg.net/",
+    "description": "基于Nano Banana的AI图像引擎，简单高效，上传图片输入需求即可生成目标视觉效果。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI创作",
+    "developer": "SUNJL（长春）",
+    "name": "AI Lyrics Generator",
+    "url": "https://ai-lyrics-generator.net/",
+    "description": "AI歌词生成与改进工具，辅助创作优质歌词内容。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "生活工具",
+    "developer": "Margox(北京)",
+    "name": "萌宠计划（iOS）",
+    "url": "https://apps.apple.com/cn/app/%E8%90%8C%E5%AE%A0%E8%AE%A1%E5%88%92-%E5%AE%A0%E7%89%A9%E6%97%A5%E8%AE%B0%E4%B8%8E%E6%B6%88%E8%B4%B9%E8%AE%B0%E8%B4%A6/id6748669989",
+    "description": "清新易用的宠物陪伴管家，包含宠物档案、图文日记、消费记账等功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像编辑",
+    "developer": "Yuzu-Peel(北京)",
+    "name": "Beardstyle AI",
+    "url": "https://beardstyle.org/",
+    "description": "虚拟试戴胡子工具，通过AI实现个性化胡子样式预览。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "实用小工具",
+    "developer": "pandaupup(广州)",
+    "name": "实用小工具：时间格式转换和计算器",
+    "url": "https://time-to-decimal.org/",
+    "description": "支持时分秒与小数双向转换、单位换算、考勤打卡四舍五入及工资计算等功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "文化推广",
+    "developer": "LongZi(深圳)",
+    "name": "跟我学太极-陈式",
+    "url": "https://github.com/dream-approaching/taijiMini",
+    "description": "微信小程序，以图文+视频呈现太极拳相关内容，推广太极拳文化。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "神经网络可视化",
+    "developer": "0x4c48",
+    "name": "PMoS",
+    "url": "https://pmos.lohhhha.cn",
+    "description": "神经网络模型可视化定义平台，助力开发者直观构建和查看神经网络模型。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像风格转换",
+    "developer": "anywhereto(beijing)",
+    "name": "scream ai",
+    "url": "https://screamai.art/",
+    "description": "将自拍照转化为电影感千禧年恐怖风照片，打造独特视觉风格。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "性能测试",
+    "developer": "pandaupup",
+    "name": "毒蘑菇显卡测试",
+    "url": "https://volumeshaderbm.org/benchmark",
+    "description": "浏览器内运行3D体积着色器测试GPU渲染能力，显示实时性能数据，支持结果分享与对比。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图片工具",
+    "developer": "anywhereto(beijing)",
+    "name": "banana nana ai",
+    "url": "https://bananananoai.net/",
+    "description": "AI图片工具，支持AI换脸、清除背景、Y2K风格人像生成等功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片转换",
+    "developer": "elng12(柳州)",
+    "name": "Image to Pixel Art",
+    "url": "https://pixelartvillage.org/",
+    "description": "图像到像素艺术转换器，支持即时预览和调色板控制，将普通图像转为像素风格。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "PDF工具",
+    "developer": "ljxyaly(深圳)",
+    "name": "PDFLance",
+    "url": "https://www.pdflance.com",
+    "description": "PDF工具集，浏览器本地运行，支持合并、拆分、编辑、转换PDF，保障用户隐私。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "全息路径生成",
+    "developer": "PopcornBoom(深圳)",
+    "name": "EZHolo",
+    "url": "https://github.com/POPCORNBOOM/EZHolodotNet/releases/latest",
+    "description": "从平面图像创建手工绘制或机器打印的刮擦全息路径，简化全息制作流程。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "格式转换",
+    "developer": "虾米",
+    "name": "opus to mp3",
+    "url": "https://opustomp3.online",
+    "description": "免费在线音乐格式转换网站，专注opus转mp3，支持多语言，无需注册和下载APP。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI去水印",
+    "developer": "皮皮卡",
+    "name": "Watermarkzero",
+    "url": "https://watermarkzero.com/",
+    "description": "AI免费去除图片水印，智能重建水印后方背景，呈现干净自然的无水印照片。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI工具平台",
+    "developer": "yvonuk",
+    "name": "Free AI for Everyone",
+    "url": "https://free.stockai.trade",
+    "description": "无需登录、完全免费的AI平台，支持Grok 4 Fast、DeepSeek V3.1等模型，长期提供服务。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像编辑",
+    "developer": "皮皮卡",
+    "name": "AI Image Editor",
+    "url": "https://aiimageeditor.photos/",
+    "description": "提示词驱动的AI图像编辑器，支持自然语言编辑照片，无需复杂手动操作。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图片修改",
+    "developer": "Ryan10Yu",
+    "name": "Image to Image AI",
+    "url": "https://imagetoimage.tech/",
+    "description": "基于AI的图片修改和重绘工具，通过AI技术优化或重构图片内容。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图像风格转换",
+    "developer": "pillow(重庆)",
+    "name": "赛博朋克AI",
+    "url": "https://cyberpunkai.art",
+    "description": "将任意照片转换为令人惊叹的赛博朋克风格作品，打造未来感视觉效果。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "实用小工具",
+    "developer": "pillow(重庆)",
+    "name": "反应速度测试",
+    "url": "https://reaction-time-test.online",
+    "description": "快速测试用户反应速度的在线工具，操作简便，即时显示结果。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "实用小工具",
+    "developer": "pillow(重庆)",
+    "name": "鼠标灵敏度转换",
+    "url": "https://sens-converter.online",
+    "description": "支持不同设备间鼠标灵敏度转换，适配用户操作习惯。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "实用小工具",
+    "developer": "pillow(重庆)",
+    "name": "色盲检测",
+    "url": "https://color-blindness-test.com",
+    "description": "在线检测是否为色盲的工具，操作简单，结果直观。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "性能测试",
+    "developer": "BOS1980",
+    "name": "GPU性能测试工具",
+    "url": "https://www.volumeshader.dev/",
+    "description": "测试评估电脑显卡3D渲染性能，适用于了解设备能力、对比性能及开发者测试WebGL效果。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片素材",
+    "developer": "iam-tin",
+    "name": "White Pic - 白色背景图片",
+    "url": "https://whitepic.online",
+    "description": "提供任意分辨率白色背景图片下载，满足设计、办公等场景需求。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图片生成",
+    "developer": "Lee (Github: https://github.com/lkunxyz)",
+    "name": "Seedream Image Generator",
+    "url": "https://seedreamimage.com/",
+    "description": "Seedream图片生成",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Mac工具",
+    "developer": "LexTang(上海) (Github: https://github.com/lexrus)",
+    "name": "SwiftyMenu",
+    "url": "https://apps.apple.com/app/swiftymenu/id1567748223",
+    "description": "Finder扩展自定义菜单，脚本执行、快速打开各种命令行工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Mac工具",
+    "developer": "LexTang(上海) (Github: https://github.com/lexrus)",
+    "name": "Sharptooth",
+    "url": "https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814",
+    "description": "快捷键开关Mac蓝牙设备，脚本触发，低电量提醒。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Mac工具",
+    "developer": "LexTang(上海) (Github: https://github.com/lexrus)",
+    "name": "cmd+x",
+    "url": "https://apps.apple.com/app/cmd-x/id6754665762",
+    "description": "为Mac提供command+x、command+v剪切文件的功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片工具",
+    "developer": "LexTang(上海) (Github: https://github.com/lexrus)",
+    "name": "LiveExtractor",
+    "url": "https://apps.apple.com/app/liveextractor/id6746672642",
+    "description": "导出实况照片里的照片和视频的小工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "开发工具",
+    "developer": "LexTang(上海) (Github: https://github.com/lexrus)",
+    "name": "RegEx+",
+    "url": "https://apps.apple.com/app/regex/id1511763524",
+    "description": "调试正则表达式的app。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI生成",
+    "developer": "Yif(上海)",
+    "name": "Magic Animal Generator",
+    "url": "https://animalgenerator.net/",
+    "description": "尽情发挥想象力，用AI混合两种动物，创造前所未见的新物种。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频工具",
+    "developer": "dodid",
+    "name": "ReadTube",
+    "url": "https://apps.apple.com/cn/app/readtube-youtube-video-summary/id6752214777",
+    "description": "Youtube视频转文字总结、幻灯片总结、AI优化文字稿。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "金融工具",
+    "developer": "zxcHolmes",
+    "name": "FilingInsight",
+    "url": "https://filing-insight.com/",
+    "description": "快速解读美股财报的AI工具，1万多份财报解读，多语言支持，免费阅读。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片工具",
+    "developer": "KryoWang（广州）(Github: https://github.com/wangxiaosu)",
+    "name": "image-to-sketch",
+    "url": "https://www.imagetosketch.app/",
+    "description": "图片转素描AI小工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "内容分发",
+    "developer": "SparkHo(广州)",
+    "name": "媒发",
+    "url": "https://mediaput.cn/?utm_source=1c7",
+    "description": "内容分发工具，将内容发布/同步到各个媒体平台，只需1分钟。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音频工具",
+    "developer": "pillow(重庆)",
+    "name": "音频转文字工具",
+    "url": "https://audio2textai.com",
+    "description": "AI音频转文字，快速、精准、安全的转写服务。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "录屏工具",
+    "developer": "oroKAKA (Github: https://github.com/oroKAKA)",
+    "name": "Leawo free-screen-recorder",
+    "url": "https://ja.leawo.com/free-screen-recorder/",
+    "description": "免费录像软件，支持4K，无时长限制，无水印。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "游戏辅助",
+    "developer": "LinightX(苏州)",
+    "name": "AimtrainerX",
+    "url": "https://aimtrainerx.com/",
+    "description": "专为FPS爱好者打造的瞄准训练网站，免费、上班可玩，丰富的训练模式，支持自定义训练样式。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片工具",
+    "developer": "Ryan(shanghai)",
+    "name": "melhorar imagem",
+    "url": "https://melhorarimagem.me/",
+    "description": "针对葡萄牙地区的图片网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "截图工具",
+    "developer": "Horace(深圳) (Github: github.com/lianhr12/, 博客: https://www.hrope.cn/)",
+    "name": "Full Page Screenshot",
+    "url": "https://www.fullpagescreenshot.top/zh",
+    "description": "5秒一键生成精美推广截图插件，支持完整网页长截图、精准元素截取、自由区域选择等功能，可标注和设置背景，一键复制。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片工具",
+    "developer": "ShawnHacks(北京) (Github: https://github.com/ShawnHacks, 博客: https://indition.com)",
+    "name": "ResizeImage.dev",
+    "url": "https://resizeimage.dev/",
+    "description": "在浏览器中直接调整图片尺寸，无需上传即可下载。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片工具",
+    "developer": "ShawnHacks(北京) (Github: https://github.com/ShawnHacks, 博客: https://indition.com)",
+    "name": "ImageConverter.dev",
+    "url": "https://imageconverter.dev/",
+    "description": "免费在线图像转换工具，在浏览器中立即在PNG、JPG、WebP之间转换图像格式，无需上传。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Mac工具",
+    "developer": "fzero17",
+    "name": "OpenFolder",
+    "url": "https://apps.apple.com/cn/app/openfolder/id6753940577?l=en-GB&mt=12",
+    "description": "在macOS菜单栏快速打开常用文件夹。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片编辑",
+    "developer": "suio03 (成都)",
+    "name": "AI 图像编辑器",
+    "url": "https://pixfy.io/",
+    "description": "图像编辑工具套件，集多种功能于一体，可优化照片质量、放大低分辨率图像、进行创意设计等。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI提示词工具",
+    "developer": "grhuang87-hue",
+    "name": "AI Photo Prompt",
+    "url": "https://aiphotoprompt.me",
+    "description": "将任何图像转换为详细的AI提示词，为Gemini、Midjourney和Stable Diffusion即时生成照片和图像提示词。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "开发工具",
+    "developer": "viga（福建）",
+    "name": "CSS2TW",
+    "url": "https://www.css2tw.online/",
+    "description": "将常规CSS转成Tailwind CSS的网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频生成",
+    "developer": "melooooooo(北京) (GitHub: https://github.com/melooooooo)",
+    "name": "Sora2 Video Studio",
+    "url": "https://www.sora2video.blog",
+    "description": "免费Sora2视频生成服务，联系可赠送积分试用，欢迎反馈建议。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音频工具",
+    "developer": "何夕2077 (武汉) (GitHub: https://github.com/justlovemaki)",
+    "name": "AI 播客生成器",
+    "url": "https://podcast.hubtoday.app/",
+    "description": "生成播客音频，支持单人和多人对话，支持原文智能配音。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "提示词工具",
+    "developer": "何夕2077 (武汉) (GitHub: https://github.com/justlovemaki)",
+    "name": "PromptHub提示词管理优化使用工具",
+    "url": "https://prompt.hubtoday.app",
+    "description": "AI提示词管理平台，支持浏览器插件，多平台客户端。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "设计工具",
+    "developer": "haocheng (Github: https://github.com/cabbagehao)",
+    "name": "GenColoring AI",
+    "url": "https://gencoloring.ai",
+    "description": "AI生成涂色页平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "转换工具",
+    "developer": "haocheng (Github: https://github.com/cabbagehao)",
+    "name": "Morse Coder",
+    "url": "https://morse-coder.com",
+    "description": "摩斯密码在线转换工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频工具",
+    "developer": "monsoonw(杭州)",
+    "name": "Free Sora Watermark Adder",
+    "url": "https://sorawatermarkadder.online",
+    "description": "为任何视频添加Sora水印。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "文本工具",
+    "developer": "zhugezifang",
+    "name": "在线记事本",
+    "url": "https://onlinenotepad101.org/",
+    "description": "在线记事本，用于无干扰写作、记笔记和文本编辑，免费，无需注册，可与他人分享笔记。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "效率工具",
+    "developer": "Aris(美国) (Github: https://github.com/AriesApp)",
+    "name": "Elisi",
+    "url": "https://www.elisiapp.com/",
+    "description": "AI+All in one个人日程效率软件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI检测",
+    "developer": "阿歪(上海) (Github: https://github.com/iyhub, Blog: https://iwhy.dev/)",
+    "name": "AI Detector",
+    "url": "https://gptdetect.ai/",
+    "description": "检查文本是否为AI生成。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图片编辑",
+    "developer": "阿歪(上海) (Github: https://github.com/iyhub, Blog: https://iwhy.dev/)",
+    "name": "Image to Image",
+    "url": "https://imagetoimage.app/",
+    "description": "AI图片编辑。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片工具",
+    "developer": "阿歪(上海) (Github: https://github.com/iyhub, Blog: https://iwhy.dev/)",
+    "name": "Image Describer",
+    "url": "https://imagedescriber.cc/",
+    "description": "利用AI为图片生成智能描述。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "文件管理",
+    "developer": "nnpyro(武汉) (Github: https://github.com/nnpyro1/SyncTunnel/, 博客: nnpyro.fwh.is)",
+    "name": "SyncTunnel",
+    "url": "",
+    "description": "跨平台高效文件同步和远程管理软件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "学习工具",
+    "developer": "Ting",
+    "name": "Turbo Learn",
+    "url": "https://turbo-learn.com/",
+    "description": "从文档、图片、拼音文件生成笔记的AI学习工具网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片编辑",
+    "developer": "Ting",
+    "name": "nano banana",
+    "url": "https://nano-banana.pro/",
+    "description": "AI驱动的图像编辑器。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "文本生成",
+    "developer": "Ting",
+    "name": "ai review generator",
+    "url": "https://reviewgenerator.org/",
+    "description": "生成商品评论的AI工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频工具",
+    "developer": "Ethan Sunray",
+    "name": "Sora Watermark Adder",
+    "url": "https://sorawatermarkadder.org",
+    "description": "为视频添加专业的Sora AI同款水印，浏览器本地完成，无需上传，保护隐私，永久免费。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频工具",
+    "developer": "饭特稀 (Github: https://github.com/shineforever)",
+    "name": "Sora Watermark Remover",
+    "url": "https://removemark.io",
+    "description": "Sora视频去水印，5秒内完成，操作简单。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音乐工具",
+    "developer": "Damon986",
+    "name": "SongGet",
+    "url": "https://songget.com/",
+    "description": "多合1的音乐下载软件，可从多个音乐流媒体平台下载高质量音乐，支持批量下载。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频工具",
+    "developer": "Damon986",
+    "name": "Moyea Downloader",
+    "url": "https://www.moyeasoft.com/downloader/",
+    "description": "多合1的视频下载软件，可从多个视频流媒体平台下载点播视频与直播视频，支持批量下载。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音频工具",
+    "developer": "samtts(杭州) (Github: https://github.com/samtts-voice)",
+    "name": "SAM TTS",
+    "url": "https://samtts.com/",
+    "description": "微软SAM语音合成工具，重现经典Windows XP系统的标志性机器人语音，支持浏览器直接使用无需下载。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI图片工具",
+    "developer": "samtts(杭州) (Github: https://github.com/samtts-voice)",
+    "name": "AI Hairstlye Changer",
+    "url": "https://aihairstylechanger.net/",
+    "description": "AI发型虚拟试换工具，上传照片即可在线试戴50+种发型和30+种发色，帮助找到完美造型。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "表情工具",
+    "developer": "samtts(杭州) (Github: https://github.com/samtts-voice)",
+    "name": "顔文字屋",
+    "url": "https://www.kaomojiya.org/",
+    "description": "颜文字网站，提供丰富的表情符号分类，一键复制即可在聊天软件中使用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片工具",
+    "developer": "indiehack(北京) (Github: https://github.com/aitoolcentert-del)",
+    "name": "Image Inverter",
+    "url": "https://imageinverter.app/",
+    "description": "图片颜色反转工具，可将黑色转为白色、创建照片负片效果，无需注册即可在浏览器中即时处理。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片工具",
+    "developer": "indiehack(北京) (Github: https://github.com/aitoolcentert-del)",
+    "name": "Circle Crop Image",
+    "url": "https://circle-crop-image.net/",
+    "description": "圆形裁剪工具，可快速制作完美的圆形头像和社交媒体图片，支持透明背景导出。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片工具",
+    "developer": "indiehack(北京) (Github: https://github.com/aitoolcentert-del)",
+    "name": "Grayscale Image",
+    "url": "https://grayscaleimage.org/",
+    "description": "图片灰度转换工具，可将彩色照片转为黑白灰度图像，适合制作复古效果和减小文件大小。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频生成",
+    "developer": "lanmo(武汉) (Github: https://github.com/oddboy0152-create)",
+    "name": "Veo 3.1 AI",
+    "url": "https://veo3-1.co/zh",
+    "description": "使用Veo3.1创作电影级视频，配备1080p原生音频、首尾帧控制及免费试用额度。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频生成",
+    "developer": "oddboy(杭州) (Github: https://github.com/liuShuZhu, 博客: http://www.oddboy.top)",
+    "name": "Sora2 AI",
+    "url": "https://sora2-ai.net/",
+    "description": "体验Sora 2视频生成，创建1080p无水印视频，配备同步音频。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI塔罗牌",
+    "developer": "TarotQA",
+    "name": "TarotQA",
+    "url": "https://tarotqa.com",
+    "description": "免费线上AI塔罗牌占卜，准确爱情运势解读。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "剪切板工具",
+    "developer": "vlv",
+    "name": "vPaste",
+    "url": "https://apps.apple.com/cn/app/vpaste/id6444913968",
+    "description": "Mac 平台优秀剪切板工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "翻译插件（Slack）",
+    "developer": "Simon Liang",
+    "name": "X-late",
+    "url": "",
+    "description": "Slack 平台专用翻译插件，辅助跨语言沟通",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "线上字幕编辑软件",
+    "developer": "Simon Liang",
+    "name": "Captioner",
+    "url": "https://captioner.com",
+    "description": "在线编辑视频字幕，提升字幕制作效率与准确性",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "小票记账 App（iOS）",
+    "developer": "Simon Liang",
+    "name": "ReceiptGenie",
+    "url": "https://apps.apple.com/cn/app/receiptgenie/idxxxxxxxxx",
+    "description": "iOS 平台专用小票记账工具，便捷记录与管理消费凭证",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "SNI伪造工具",
+    "developer": "Space Time",
+    "name": "Sheas Cealer",
+    "url": "https://github.com/SpaceTimee/Sheas-Cealer",
+    "description": "伪造工具，无需代理即可加速直连 Github、Steam、Pixiv 等网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 视频生成",
+    "developer": "Leo",
+    "name": "TalkingAvatar",
+    "url": "https://www.talkingavatar.ai/",
+    "description": "AI 数字人视频生成平台，支持多语言和个性化定制。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "开发效率工具",
+    "developer": "94R7",
+    "name": "SparkleEasy",
+    "url": "https://sparkleeasy.pages.dev/",
+    "description": "macOS 开发者的工具，一键生成更新配置并管理权限。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "内容摘要工具",
+    "developer": "Zero24",
+    "name": "Recap",
+    "url": "https://recapall.app/",
+    "description": "Chrome 插件，将网页和 PDF 转为视觉摘要，适合学生和专业人士。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "临时邮箱",
+    "developer": "Ethan Sunray",
+    "name": "Temp Mail",
+    "url": "https://tempmail.la/",
+    "description": "提供临时邮箱服务，保护隐私，避免垃圾邮件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 内容检测",
+    "developer": "Ethan Sunray",
+    "name": "AI Detector",
+    "url": "https://aidetector.tech/",
+    "description": "检测文本和图片是否由 AI 生成，支持 C2PA 内容验证。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "看图工具",
+    "developer": "JARK006",
+    "name": "jarkViewer",
+    "url": "https://github.com/jark006/jarkViewer",
+    "description": "Windows 平台看图软件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "FTP 服务",
+    "developer": "JARK006",
+    "name": "FtpServer",
+    "url": "https://github.com/jark006/FtpServer",
+    "description": "Windows 平台 FTP 服务器。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "天气小部件",
+    "developer": "JARK006",
+    "name": "小天气",
+    "url": "https://github.com/jark006/weather_widget",
+    "description": "安卓桌面天气小部件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频生成",
+    "developer": "Q-Sansan",
+    "name": "Img2Video",
+    "url": "https://img2video.ai/",
+    "description": "通过文本或图像生成短视频，适合社交媒体内容创作。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "塔罗 AI",
+    "developer": "Yue",
+    "name": "Yes/No 塔罗 AI",
+    "url": "https://yesnotarot.org/",
+    "description": "通过 AI 技术提供简单的“是/否”塔罗占卜。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "项目分享平台",
+    "developer": "Yue",
+    "name": "ProjectHunt",
+    "url": "https://projecthunt.me/",
+    "description": "独立项目的发现和分享平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 接口平台",
+    "developer": "kevin 不会写代码",
+    "name": "CheapGpt",
+    "url": "https://ai.linktre.cc",
+    "description": "提供稳定的 AI 模型 API 平台，支持多种主流 AI 模型。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "启动器工具",
+    "developer": "Blushyes",
+    "name": "如快",
+    "url": "https://sofast.fun",
+    "description": "基于 Tauri 开发的启动器软件，适用于 Windows 和 Mac。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "色彩管理工具",
+    "developer": "meetqy",
+    "name": "aiseka.com",
+    "url": "https://aiseka.com",
+    "description": "色彩管理工具，支持色卡制作和推荐。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "技术分析工具",
+    "developer": "fengmao",
+    "name": "liusha tech detector",
+    "url": "https://liusha.org/",
+    "description": "提交网址后分析技术栈信息。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "数据备份",
+    "developer": "QC2168",
+    "name": "MIB",
+    "url": "https://github.com/QC2168/mib",
+    "description": "安卓数据备份工具，支持增量备份。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Reddit 运营工具",
+    "developer": "Nico",
+    "name": "Subrise",
+    "url": "https://subrise.co/zh",
+    "description": "为出海创业者提供的 Reddit 运营工具，帮助发现优质流量社区。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片转表格",
+    "developer": "zhiya",
+    "name": "Image to excel",
+    "url": "https://itexcel.izhiyakeji.com/zh-Hans/",
+    "description": "识别图片中的表格并转换为 Excel 文档。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音乐游戏",
+    "developer": "xiaocui723",
+    "name": "Sprunked",
+    "url": "https://sprunked.online/",
+    "description": "基于 Scratch 的在线音乐游戏，添加创新玩法和角色。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Notion 内容分享",
+    "developer": "Shanshi",
+    "name": "Notion Exporter",
+    "url": "https://notionexporter.com/",
+    "description": "将 Notion 内容转成卡片便于社交媒体分享。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "英语学习助手",
+    "developer": "Honwhy Wang",
+    "name": "扇贝单词助手V3",
+    "url": "https://shanbay.pages.dev",
+    "description": "扇贝网用户的 Chrome 插件，帮助在网页上学习英语。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "文档转音频",
+    "developer": "Ethan Sunray",
+    "name": "Inpodcast AI",
+    "url": "https://inpodcast.ai",
+    "description": "将 PDF、Word 等文档转为播客音频。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "MVP 开发模板",
+    "developer": "Kajian",
+    "name": "MvpFast",
+    "url": "https://www.mvpfast.top",
+    "description": "帮助独立开发者快速构建 MVP 的模板，含视频教程。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "网页插件",
+    "developer": "xibobo",
+    "name": "iFinder",
+    "url": "https://www.ifinder.one",
+    "description": "网页关键词高亮插件，支持多关键词。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片分割工具",
+    "developer": "xingstarx",
+    "name": "图片分割器",
+    "url": "https://imagesplitter.vip/zh",
+    "description": "创建 Instagram 拼图和微信九宫格的图片分割工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "模组创作平台",
+    "developer": "xiaocui723",
+    "name": "Abgerny",
+    "url": "https://abgerny.net",
+    "description": "超现实节奏和古怪角色的粉丝自制模组，提供无限创作可能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "个人主页创建",
+    "developer": "咕噜不爱猫",
+    "name": "Biofy",
+    "url": "https://Biofy.cn",
+    "description": "定制个人主页，聚合社交信息和展示个人作品。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 形象生成",
+    "developer": "阿凯呵",
+    "name": "AI 形象照",
+    "url": "https://luna-headshot.sodair.top/",
+    "description": "基于一张照片生成 AI 简历形象照，支持电脑摄像头拍摄。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Notion导出工具",
+    "developer": "Shanshi",
+    "name": "Notion Exporter",
+    "url": "https://notionexporter.com/",
+    "description": "将 Notion 内容转成卡片，便于分享至社交媒体。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "语言学习助手",
+    "developer": "Honwhy Wang",
+    "name": "扇贝单词助手V3",
+    "url": "https://shanbay.pages.dev",
+    "description": "Chrome 插件，助力扇贝网用户轻松学习英语。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "播客生成工具",
+    "developer": "Ethan Sunray",
+    "name": "Inpodcast AI",
+    "url": "https://inpodcast.ai",
+    "description": "将文档转成播客音频，支持 PDF、Word、Markdown 和 TXT 格式。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "MVP构建模板",
+    "developer": "Kajian",
+    "name": "MvpFast",
+    "url": "https://www.mvpfast.top",
+    "description": "帮助独立开发者快速构建 MVP 的开发模板，包含教程。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "关键词高亮",
+    "developer": "xibobo",
+    "name": "iFinder",
+    "url": "https://www.ifinder.one",
+    "description": "网页关键词高亮插件，支持多个关键词自动高亮。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片分割器",
+    "developer": "xingstarx",
+    "name": "图片分割器",
+    "url": "https://imagesplitter.vip/zh",
+    "description": "创建 Instagram 拼图效果及微信九宫格图片分割工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "游戏模组",
+    "developer": "xiaocui723",
+    "name": "Abgerny",
+    "url": "https://abgerny.net",
+    "description": "粉丝自制模组，带有超现实节奏、古怪角色。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "个人主页工具",
+    "developer": "咕噜不爱猫",
+    "name": "Biofy",
+    "url": "https://Biofy.cn",
+    "description": "定制个人主页，聚合社交信息和个人作品展示。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI形象照生成",
+    "developer": "阿凯呵",
+    "name": "AI 形象照",
+    "url": "https://luna-headshot.sodair.top/",
+    "description": "一张照片生成简历形象照，基于开源换脸系统。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "投资策略模拟器",
+    "developer": "风巢森淼",
+    "name": "投资策略模拟器",
+    "url": "https://investment-simulator.toolsnav.top",
+    "description": "模拟和比较不同投资策略在市场中的表现。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图像分割工具",
+    "developer": "诸葛子房",
+    "name": "Image Splitter",
+    "url": "https://image-splitter.online",
+    "description": "在线图片分割工具，将图片切成多块并下载。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "生活工具小程序",
+    "developer": "whinc",
+    "name": "小而美工具",
+    "url": "https://whinc.github.io/ucalc-website",
+    "description": "微信小程序，涵盖日历、计算器、年龄评估等工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "海报生成器",
+    "developer": "handsometong",
+    "name": "Poster Generator",
+    "url": "https://postergenerator.online",
+    "description": "创建自定义海报的免费工具，适合个人和商业用途。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频下载工具",
+    "developer": "caorushizi",
+    "name": "mediago",
+    "url": "https://downloader.caorushizi.cn/?form=github",
+    "description": "在线视频下载和 m3u8 提取工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图表生成工具",
+    "developer": "huiwan-code",
+    "name": "EzyGraph",
+    "url": "https://www.ezygraph.com",
+    "description": "将博客内容转化为信息图，适合社交媒体和营销推广。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "微信助手",
+    "developer": "heora",
+    "name": "微信助手 Pro",
+    "url": "https://wxbot.dev/",
+    "description": "帮助管理微信，提升工作专注度。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "简历投递工具",
+    "developer": "Kevin",
+    "name": "海投简历",
+    "url": "https://mengsi.online",
+    "description": "一键投递简历的工具，提升求职效率。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音乐创作平台",
+    "developer": "Song",
+    "name": "Colorbox Mustard",
+    "url": "https://colorbox-mustard.com/",
+    "description": "互动音乐创作平台，结合视觉和声音设计。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Web AI助手",
+    "developer": "yvonuk",
+    "name": "Web AI助手",
+    "url": "https://web.stockai.trade",
+    "description": "免费、易用的 ChatGPT 工具，支持 GPT-4 模型。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音乐创作游戏",
+    "developer": "xiaocui723",
+    "name": "Sprunki Incredibox",
+    "url": "https://sprunkiincredibox.net",
+    "description": "在线互动音乐游戏，允许玩家自定义音乐。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "二维码生成工具",
+    "developer": "0xJoanne",
+    "name": "QRCode.fun",
+    "url": "https://qrcode.fun",
+    "description": "在线二维码生成工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "广告高亮扩展",
+    "developer": "鸭鸭「カモ」",
+    "name": "高亮“广告”",
+    "url": "https://github.com/DuckDuckStudio/highlight-ad-extension",
+    "description": "用于高亮网页中的“广告”字样的扩展。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "IP查询工具",
+    "developer": "Frey",
+    "name": "IP.IM",
+    "url": "https://ip.im",
+    "description": "简洁准确的 IP 信息查询网站，支持 curl。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "许可证选择器",
+    "developer": "风巢森淼",
+    "name": "开源许可证选择器",
+    "url": "https://open-source-license-chooser.toolsnav.top",
+    "description": "提供用户友好的开源许可证选择工具，包括许可证比较和使用情况图表。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "填色生成",
+    "developer": "yuesheng zheng",
+    "name": "SoColoring",
+    "url": "https://www.socoloring.com",
+    "description": "AI 驱动的填色稿生成平台，支持文本生成和 AI 一键上色。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "TTS 工具",
+    "developer": "benjamin",
+    "name": "TikTok Voice Generator",
+    "url": "https://tiktokvoice.net",
+    "description": "TikTok 热门配音生成工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "宝可梦生成器",
+    "developer": "Ethan Sunray",
+    "name": "Random Pokemon Generator",
+    "url": "https://randompokemongenerator.me",
+    "description": "随机生成宝可梦图片，支持 2D 和 3D 风格。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "标签管理",
+    "developer": "Nebula",
+    "name": "Tabbiy",
+    "url": "https://tyruslockwood.github.io",
+    "description": "浏览器标签管理扩展，支持自动分组和快捷切换标签。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "JSON 处理工具",
+    "developer": "loggerhead",
+    "name": "JSON For You",
+    "url": "https://json4u.cn",
+    "description": "JSON 可视化工具，支持 JSON 格式化、美化、校验、比较及 CSV 互转。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片压缩工具",
+    "developer": "Ethan Sunray",
+    "name": "Compress JPG",
+    "url": "https://compressjpg.io",
+    "description": "支持多种格式图片压缩的免费工具，隐私保障，图片压缩完成后可下载。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "句子生成器",
+    "developer": "ConstantLove",
+    "name": "SenGen - AI句子生成器",
+    "url": "https://aisengen.com",
+    "description": "AI 句子生成器，适合作家、学生等用户。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "动捕工具",
+    "developer": "Amyang",
+    "name": "MiKaPo",
+    "url": "https://mikapo.amyang.dev",
+    "description": "AI 在线动捕控制 MMD 纸片人模型。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "角色图像生成",
+    "developer": "Q-Sansan",
+    "name": "OC Maker",
+    "url": "https://www.ocmaker.net",
+    "description": "AI 生成原创角色图像。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "退休计算器",
+    "developer": "风巢森淼",
+    "name": "延迟退休年龄计算器",
+    "url": "https://daojishi.fun",
+    "description": "计算法定退休年龄和倒计时工具，帮助用户轻松计算退休时间。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "退休年龄计算",
+    "developer": "Kestrel",
+    "name": "退休年龄计算器",
+    "url": "http://test.kestrel-task.cn/",
+    "description": "根据法定标准计算退休年龄，支持按人员类型查询。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "HackerNews 热门",
+    "developer": "Saga",
+    "name": "Show HN Today",
+    "url": "https://showhntoday.com",
+    "description": "汇集 Hacker News 热门项目，展示技术前沿趋势。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "桌面宠物",
+    "developer": "陆永剑",
+    "name": "桌面新宠(NewPet)",
+    "url": "https://apps.apple.com/cn/app/桌面新宠/id6499423794?mt=12",
+    "description": "桌面宠物与效率工具深度互动。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "验证工具",
+    "developer": "Cloudchewie",
+    "name": "CloudOTP",
+    "url": "https://apps.cloudchewie.com/zh_CN/cloudotp",
+    "description": "双因素验证器，支持 Android 和 Windows，支持云备份。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片生成",
+    "developer": "xiaoxusdz",
+    "name": "Flux AI",
+    "url": "https://fluxaiweb.com",
+    "description": "AI 图片生成器。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "歌词生成",
+    "developer": "xiaoxusdz",
+    "name": "AI Lyrics Generator",
+    "url": "https://www.lyricsgenerator.io",
+    "description": "免费 AI 歌词生成器。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "录屏插件",
+    "developer": "94r7",
+    "name": "放大镜录屏",
+    "url": "https://chromewebstore.google.com/detail/oamckfgecgfenpchklfhelhnngmhdnma?authuser=0&hl=zh-CN",
+    "description": "Chrome 录屏插件，可放大区域。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "IT 知识平台",
+    "developer": "fatalor",
+    "name": "IT 摇篮曲",
+    "url": "https://www.itylq.com",
+    "description": "提供计算机网络、操作系统、开源项目等 IT 知识内容。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "记账工具",
+    "developer": "名翠软件",
+    "name": "美丽记账",
+    "url": "https://www.mingcui.cn/meili/",
+    "description": "免费简便的记账应用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 图像生成",
+    "developer": "virgoone",
+    "name": "Flux AI Image Generator",
+    "url": "https://fluxaipro.art",
+    "description": "文生图网站，支持 prompt 翻译优化功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 工具搜索",
+    "developer": "无名",
+    "name": "找到每个任务的最佳 AI 工具",
+    "url": "https://toollist.ai",
+    "description": "发现最优 AI 工具的平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "OCR 识别",
+    "developer": "jiangnanboy",
+    "name": "番石榴实验室 AI 智能应用",
+    "url": "https://ai.maogoujiaoliuqi.com/",
+    "description": "包含图片文字提取、OCR、表格识别、文档比对功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "酒店协议代码",
+    "developer": "诸葛子房",
+    "name": "Hotel Corporate Codes",
+    "url": "https://corporate-codes.online",
+    "description": "提供酒店品牌的特别折扣代码，适用于企业员工预订。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "网站地图",
+    "developer": "风巢森淼",
+    "name": "sitemap 生成器",
+    "url": "https://sitemap.top",
+    "description": "网站地图生成及数据分析平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Emoji 搜索",
+    "developer": "0xJoanne",
+    "name": "Emoji Spark",
+    "url": "https://emojispark.com",
+    "description": "AI Emoji 搜索工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 动漫生成",
+    "developer": "无名",
+    "name": "AI Anime Generator",
+    "url": "https://aianimegen.org",
+    "description": "免费的 AI 动漫图片生成器。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "文本对比工具",
+    "developer": "木木木",
+    "name": "Text Compare & Merge",
+    "url": "https://diffsuite.com",
+    "description": "文本对比与合并工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图标转换",
+    "developer": "木木木",
+    "name": "SVG to ICO",
+    "url": "https://svg2ico.com/zh/",
+    "description": "SVG 和 PNG 转 ICO 工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "SEO 知识分享",
+    "developer": "shaoyangliu",
+    "name": "流沙 SEO",
+    "url": "https://liusha.com",
+    "description": "分享谷歌 SEO 相关知识。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 辅助工具",
+    "developer": "tutorial0",
+    "name": "撩妹神器",
+    "url": "https://dirtypickuplines.org/",
+    "description": "AI 约会辅助工具，生成搭讪用语。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "字体生成器",
+    "developer": "风巢森淼",
+    "name": "奇异字体生成器",
+    "url": "https://freakyfontgenerator.top",
+    "description": "转换各种独特字体样式。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片生成平台",
+    "developer": "Ethan Sunray",
+    "name": "Perchance AI",
+    "url": "https://perchanceai.cc",
+    "description": "提供 18 种 AI 图片生成器和多种绘画风格。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "收益计算器",
+    "developer": "诸葛子房",
+    "name": "TikTok 收益计算器",
+    "url": "https://tiktok-money-calculator.online/zh",
+    "description": "估算 TikTok 发布视频的预期收益。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "待办管理",
+    "developer": "微芒不朽",
+    "name": "微芒计划",
+    "url": "https://kestrel-task.cn",
+    "description": "Windows 平台的待办效率管理工具，使用 Tauri 构建。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "配图识别",
+    "developer": "biboom",
+    "name": "配图扫描 App",
+    "url": "https://github.com/li150/mapping_scanning",
+    "description": "基于本地 OCR 的文字识别 App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 工具导航",
+    "developer": "Avery",
+    "name": "AI Tool Trek",
+    "url": "https://aitooltrek.com/",
+    "description": "AI 工具导航站及实时 AI 新闻预览。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图标生成",
+    "developer": "Airyland",
+    "name": "Logo.surf",
+    "url": "https://www.logo.surf",
+    "description": "文字生成 Logo 和 Favicon 工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "SEO 插件",
+    "developer": "blank",
+    "name": "AITDK SEO Extension",
+    "url": "https://aitdk.com/extension",
+    "description": "All-in-One SEO 插件，查看网站流量和关键词密度。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "快速评论工具",
+    "developer": "blank",
+    "name": "Comment Fast",
+    "url": "https://commentfast.com/",
+    "description": "基于 AI 的评论生成工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "格式转换",
+    "developer": "木木木",
+    "name": "MP4 to MP3",
+    "url": "https://mp4t.com/zh/",
+    "description": "MP4 转 MP3 工具，免费安全快速。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "同传工具",
+    "developer": "zxcHolmes",
+    "name": "SpeakGo",
+    "url": "https://speakgo.app",
+    "description": "实时同声传译工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "IP 查询",
+    "developer": "Airyland",
+    "name": "IP.network",
+    "url": "https://www.ip.network",
+    "description": "IP 地址查询工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "DNS 查询",
+    "developer": "Airyland",
+    "name": "DNS.fish",
+    "url": "https://dns.fish",
+    "description": "域名 DNS 记录查询工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "化妆品查询",
+    "developer": "0xJoanne",
+    "name": "CosmeticCheck",
+    "url": "https://www.cosmeticcheck.app",
+    "description": "化妆品批号免费查询工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "GPS 工具",
+    "developer": "7SaiWen",
+    "name": "GPS测速仪 - 速度表",
+    "url": "https://apps.apple.com/cn/app/id1497060416",
+    "description": "跟踪速度和行程的 GPS 测速仪。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "域名查询",
+    "developer": "Airyland",
+    "name": "Query.Domains",
+    "url": "https://query.domains",
+    "description": "域名注册状态及 whois 批量查询工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图标获取",
+    "developer": "Airyland",
+    "name": "Favicon.im",
+    "url": "https://favicon.im",
+    "description": "获取网站的 Favicon。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "计时器",
+    "developer": "瓶水之冰",
+    "name": "Geilio Timer",
+    "url": "https://geilio.com/",
+    "description": "可定制的计时器，适用于考试等场景。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "DNS 系统",
+    "developer": "Oiov",
+    "name": "WR.DO",
+    "url": "https://wr.do",
+    "description": "基于 Cloudflare 的多租户 DNS 分发系统。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "安卓发布工具",
+    "developer": "Xigong",
+    "name": "小篆传包",
+    "url": "https://github.com/Xigong93/XiaoZhuan",
+    "description": "更新安卓 Apk 到多个应用市场。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图像转换",
+    "developer": "木木木",
+    "name": "SVG to PNG",
+    "url": "https://svgzz.com/",
+    "description": "SVG 转 PNG、JPG、WebP 等格式。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图像增强",
+    "developer": "疯狂的小波",
+    "name": "Mejorar Imagen",
+    "url": "https://mejorarimagen.org/",
+    "description": "AI 图像增强器，将图片放大至 12K 分辨率。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "书签管理",
+    "developer": "Owen Chen",
+    "name": "PackPack",
+    "url": "https://packpack.ai",
+    "description": "AI 驱动的书签管理工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "照片动画",
+    "developer": "Sean",
+    "name": "Animate Old Photos",
+    "url": "https://animateoldphotos.org/",
+    "description": "让老照片中的回忆“动起来”的 AI 工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "轨迹记录",
+    "developer": "7SaiWen",
+    "name": "MyTracks",
+    "url": "https://apps.apple.com/cn/app/id1464666446",
+    "description": "GPS 记录仪，支持户外导航和轨迹记录。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "抓包工具",
+    "developer": "7SaiWen",
+    "name": "Network Sniffer",
+    "url": "https://apps.apple.com/cn/app/id6450956188",
+    "description": "网络抓包工具，支持 HTTP(S)/Socket 抓包。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Notion 插件",
+    "developer": "Joans",
+    "name": "Notion Mate",
+    "url": "https://www.notionmate.top/",
+    "description": "提供多种 Notion 自定义功能，包括大纲、主题、图像查看器等。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "加密聊天",
+    "developer": "小草林",
+    "name": "诶嘿(EI)",
+    "url": "https://ei.xcl.ink/",
+    "description": "加密智慧聊天 APP，包含 AI 对话和跨平台语音转文本。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "优惠券查找",
+    "developer": "onesthink",
+    "name": "电商优惠券查找脚本",
+    "url": "https://greasyfork.org/zh-CN/scripts/489212",
+    "description": "查询领取淘宝、天猫、京东等电商平台的优惠券。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Airtable 工具",
+    "developer": "sjdeak",
+    "name": "Airtable iOS Shortcuts Library",
+    "url": "https://shortcuts.sequentialroutine.com",
+    "description": "为 iOS 设备设计的 Airtable 快捷指令库，简化操作。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "GPT 聊天工具",
+    "developer": "fengfeng",
+    "name": "共鸣 Chat",
+    "url": "https://apps.apple.com/cn/app/id6476399027",
+    "description": "基于 ChatGPT 的 iOS App，支持多种模型及多语言。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "批量重命名工具",
+    "developer": "ilgnefz",
+    "name": "OncePower",
+    "url": "https://github.com/ilgnefz/once_power",
+    "description": "文件和文件夹批量重命名工具，支持批量删除空文件夹和文件移动。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "技术博客",
+    "developer": "chlinlearn",
+    "name": "值得一读技术博客",
+    "url": "https://daily-blog.chlinlearn.top",
+    "description": "每日分享高质量技术博客和文档。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 内容检测",
+    "developer": "xiaoxusdz",
+    "name": "X Detector",
+    "url": "https://xdetector.ai/",
+    "description": "检测文字是否由 AI 编写的工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 约会助手",
+    "developer": "xiaoxusdz",
+    "name": "RIZZ AI",
+    "url": "https://rizzai.ai/",
+    "description": "AI 驱动的约会助手。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "壁纸工具",
+    "developer": "Shawn",
+    "name": "壁纸千寻",
+    "url": "https://apps.apple.com/app/id6504430291",
+    "description": "免费手机壁纸下载工具，自动更新壁纸。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "导航工具",
+    "developer": "约翰",
+    "name": "小报童专栏导航",
+    "url": "https://xiaobot.tools/",
+    "description": "汇集最优质的小报童专栏。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "时间轴日记",
+    "developer": "xiaosong gao",
+    "name": "韶光日记",
+    "url": "https://gxspp.site/",
+    "description": "记录故事的时间轴日记。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "剪切板管理",
+    "developer": "ayangweb",
+    "name": "EcoPaste",
+    "url": "https://github.com/ayangweb/EcoPaste",
+    "description": "多平台剪切板管理工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "艺术创作平台",
+    "developer": "Q-Sansan",
+    "name": "FurryAI",
+    "url": "https://www.furryaiart.com",
+    "description": "基于文本生成毛茸茸艺术品的 AI 平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "热点聚合站",
+    "developer": "Funny",
+    "name": "即时热点",
+    "url": "http://nowhots.com",
+    "description": "聚合热门信息，便于用户快速了解时事。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 导航站",
+    "developer": "AwesomeYang",
+    "name": "AI WITH.ME",
+    "url": "https://aiwith.me",
+    "description": "AI 产品导航站，自动化生成 AI 产品信息。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 滤镜",
+    "developer": "Ethan Sunray",
+    "name": "AI Filter",
+    "url": "https://aifilter.net",
+    "description": "将照片变为多种风格的 AI 滤镜。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "内容创作平台",
+    "developer": "Frank",
+    "name": "内容农场",
+    "url": "http://122.51.11.251:29189/home",
+    "description": "用 AIGC 和自动化提升短视频内容产量。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "微信文章编辑器",
+    "developer": "Honwhy Wang",
+    "name": "mpmd",
+    "url": "https://mpmd.pages.dev",
+    "description": "Markdown 编辑器，适合创作微信公众号文章。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "录制软件",
+    "developer": "wtechtec",
+    "name": "CraftRecord",
+    "url": "https://github.com/WtecHtec/electron-react-record",
+    "description": "鼠标跟随录制软件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "TTS 下载器",
+    "developer": "Andres Rivas",
+    "name": "微软 TTS 文字转语音下载器",
+    "url": "https://www.microsoft-tts-downloader.com",
+    "description": "支持微软 TTS 文字转语音的下载。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "称呼计算器",
+    "developer": "路人甲",
+    "name": "亲戚称呼计算器",
+    "url": "https://passer-by.com/relationship/",
+    "description": "中国亲戚关系计算器，帮助避免称呼错误。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "生词翻译工具",
+    "developer": "Chaosflutter",
+    "name": "Siphon 吸词",
+    "url": "https://siphon.ink/",
+    "description": "浏览器插件，双击生词即可翻译并保存，支持复习记忆。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频下载器",
+    "developer": "不特定开发者",
+    "name": "m3u8下载器",
+    "url": "https://github.com/youwen21/flybird-m3u8downloader",
+    "description": "下载 m3u8 视频，支持批量检测 IPTV m3u8。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 图像生成",
+    "developer": "Q-Sansan",
+    "name": "PixarAI",
+    "url": "https://www.pixarai.com/",
+    "description": "生成迪士尼风格的角色或宠物海报。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "直播平台",
+    "developer": "hsslive",
+    "name": "billd-live",
+    "url": "https://live.hsslive.cn",
+    "description": "仿 B 站的个人直播间。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "远程桌面",
+    "developer": "hsslive",
+    "name": "billd-desk",
+    "url": "https://desk.hsslive.cn",
+    "description": "仿 todesk 的远程桌面工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "大小写转换",
+    "developer": "August",
+    "name": "Case Convert Online",
+    "url": "https://convertcase.indiehacker.online/",
+    "description": "英文大小写转换工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Dubbo 管理软件",
+    "developer": "qiaolin",
+    "name": "Dubbo-Desktop-Manager",
+    "url": "https://github.com/qiaolin-li/dubbo-desktop-manager",
+    "description": "Dubbo 桌面管理工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "去水印工具",
+    "developer": "诸葛子房",
+    "name": "小红书去水印下载",
+    "url": "https://www.xhs-download.online/",
+    "description": "小红书图片、视频去水印下载工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "流程图工具",
+    "developer": "没想好",
+    "name": "MermaidHelp",
+    "url": "https://mermaid.shizhuoran.top/",
+    "description": "Mermaid + AI 绘制流程图工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "数据分析工具",
+    "developer": "Civilpy",
+    "name": "Trace",
+    "url": "https://github.com/yeayee/Trace",
+    "description": "QQ、微信记录分析和竞调数据分析工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "批量图片生成",
+    "developer": "秦少卫",
+    "name": "快图批量图片设计",
+    "url": "https://www.kuaitu.cc/",
+    "description": "表格与设计模板生成图片的工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "HTML 转图像",
+    "developer": "Godow",
+    "name": "html2image",
+    "url": "https://html2image.online/",
+    "description": "将 HTML 和 CSS 转换为图像文件（SVG、PNG、JPEG）。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片处理",
+    "developer": "jpgHi / IDjpg",
+    "name": "jpgHi 图片放大",
+    "url": "https://jpghi.com",
+    "description": "无损放大和增强图片的工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片风格化",
+    "developer": "jpgHi / IDjpg",
+    "name": "IDjpg",
+    "url": "https://idjpg.com",
+    "description": "将人像转换成不同风格的工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "直播源搜索",
+    "developer": "G",
+    "name": "全王探测-直播源搜索神器",
+    "url": "https://qwtc.cc/",
+    "description": "直播源 IP 探测，支持多种类型 IP 查找。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "颜色查询",
+    "developer": "禄眠",
+    "name": "原色",
+    "url": "https://r0jo31c9rsb.feishu.cn/docx/YcSzdcXkGoymXbxsJIAcWB7ZnwU",
+    "description": "中国传统色的查询工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "微信助手",
+    "developer": "heora",
+    "name": "微信助手",
+    "url": "https://github.com/yzqzy/wechat-assistant",
+    "description": "支持群发、定时、消息备份等功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "待办管理",
+    "developer": "Kestrel",
+    "name": "微芒计划",
+    "url": "https://kestrel-task.cn",
+    "description": "简洁方便的效率待办工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "封面图制作",
+    "developer": "fantingsheng",
+    "name": "封面图",
+    "url": "https://spacexcode.com/coverview",
+    "description": "在线封面图制作工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "语言陪练",
+    "developer": "刚师傅",
+    "name": "好说",
+    "url": "https://haoshuo.cc/",
+    "description": "二次元 AI 口语陪练，支持多语言。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "便签小工具",
+    "developer": "倒霉狐狸",
+    "name": "便签喵",
+    "url": "https://www.zhimiaox.cn/images/bqm.jpg",
+    "description": "桌面便签和待办的微信小程序。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "倒数日小组件",
+    "developer": "Yefei",
+    "name": "倒数鸭",
+    "url": "https://apps.apple.com/cn/app/%E5%80%92%E6%95%B0%E9%B8%AD/id6457201223",
+    "description": "纪念日倒数显示小组件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "漫画翻译",
+    "developer": "sagasu",
+    "name": "AIMangaTranslator",
+    "url": "https://aimangatranslator.com/",
+    "description": "AI 漫画翻译工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "数据库管理",
+    "developer": "Dataflare",
+    "name": "Dataflare",
+    "url": "https://dataflare.app",
+    "description": "支持多种数据库的管理工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "假名练习工具",
+    "developer": "luhaifeng666",
+    "name": "Kana playground",
+    "url": "https://luhaifeng666.github.io/kana-playground/",
+    "description": "日语假名学习平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "教学管理",
+    "developer": "wells2333",
+    "name": "sg-exam",
+    "url": "https://yunmianshi.com.cn/#/home",
+    "description": "教学管理平台，支持在线考试和互动学习。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "媒体播放器",
+    "developer": "nini22P",
+    "name": "OMP",
+    "url": "https://nini22p.github.io/omp/",
+    "description": "网页端 OneDrive 媒体播放器。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "定时器",
+    "developer": "gofxas",
+    "name": "厨房定时器",
+    "url": "https://timing.cpdd.cool/",
+    "description": "针对移动端设计的滑动操作定时器。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "APK 下载站",
+    "developer": "fengmao",
+    "name": "APK DOWNLOAD",
+    "url": "https://apk.bot/",
+    "description": "安卓 APK 下载站，免费无广告，替代 Google Play Store。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "简历设计工具",
+    "developer": "hacker233",
+    "name": "91化简",
+    "url": "https://91huajian.cn/",
+    "description": "开源简历设计工具，支持导出高清 PDF 和 JSON。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "颜色工具",
+    "developer": "azhubaby",
+    "name": "中国色",
+    "url": "https://chinese-colors.com",
+    "description": "提供中国传统色的颜色工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "说唱生成",
+    "developer": "bairdhh",
+    "name": "Rap Generator",
+    "url": "https://rapgenerator.net/",
+    "description": "免费 AI 工具，生成说唱歌词和歌曲。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "乐高生成器",
+    "developer": "Q-Sansan",
+    "name": "Brick Center",
+    "url": "https://www.brickcenter.net/",
+    "description": "AI 乐高生成器，可自动生成乐高设计图和头像。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 绘画",
+    "developer": "fengfeng",
+    "name": "梦幻工坊",
+    "url": "https://apps.apple.com/cn/app/id6483932773",
+    "description": "AI 绘画应用，基于 MJ/SD/DallE 技术，免翻墙使用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片处理",
+    "developer": "handsometong",
+    "name": "ImageTools",
+    "url": "https://ai-image.tools",
+    "description": "免费 AI 工具，去除背景、替换背景等功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "扫码登录",
+    "developer": "星辰",
+    "name": "微寻",
+    "url": "https://weixunlogin.com",
+    "description": "提供微信扫码登录功能的服务。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "英语学习",
+    "developer": "wish",
+    "name": "英语汪",
+    "url": "https://meiyan.tech/app/home?app=english&lang=en",
+    "description": "单词查询、句子翻译和复习工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "笔记软件",
+    "developer": "wish",
+    "name": "言叶",
+    "url": "https://meiyan.tech/app/home?app=note&lang=zh_CN",
+    "description": "支持 Markdown、云同步和多层级管理的笔记软件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "密码管理",
+    "developer": "wish",
+    "name": "Any Secret",
+    "url": "https://apps.apple.com/cn/app/any-secret/id6448714682",
+    "description": "iOS 平台的密码管理软件，支持云同步。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "iMessage AI",
+    "developer": "yvonuk",
+    "name": "iMessage AI 助手",
+    "url": "https://stockai.trade/chat",
+    "description": "使用苹果设备的 iMessage 直接与 ChatGPT 对话。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "贴吧工具箱",
+    "developer": "Dilettante258",
+    "name": "tieba-toolbox",
+    "url": "https://tbt.dilettante258.cyou/",
+    "description": "贴吧工具箱，提供发言查询和数据可视化功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "IP 查询",
+    "developer": "Aissen",
+    "name": "IP Address Lookup",
+    "url": "https://ipaddress.fun/",
+    "description": "快速 IP 地址查询工具，显示地理位置等信息。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "数据可视化",
+    "developer": "Shalom",
+    "name": "微思文稿",
+    "url": "https://vslide.cn/dataviz/",
+    "description": "零代码数据可视化图表工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片描述",
+    "developer": "ShurshanX",
+    "name": "AI Image Description Generator",
+    "url": "https://imagedescriptiongenerator.xyz/",
+    "description": "图片描述生成工具，用于科研和艺术创作。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "诗词应用",
+    "developer": "谢广志",
+    "name": "几枝",
+    "url": "https://jz.imxie.club/",
+    "description": "小众诗词应用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "背单词工具",
+    "developer": "zyronon",
+    "name": "typing-word",
+    "url": "https://typing-word.ttentau.top/",
+    "description": "英语学习网站，提供背单词和英语练习功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "字幕重命名",
+    "developer": "qwqcode",
+    "name": "SubRenamer",
+    "url": "https://github.com/qwqcode/SubRenamer",
+    "description": "批量重命名字幕文件工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频剪辑",
+    "developer": "R1ckShi",
+    "name": "FunClip",
+    "url": "https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary",
+    "description": "自动视频剪辑工具，支持语音识别和字幕生成。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "在线考试",
+    "developer": "7small7",
+    "name": "兔兔答题",
+    "url": "https://www.tutudati.com",
+    "description": "在线考试系统，支持多种场景和智能判卷。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "标签页管理",
+    "developer": "waylonzheng",
+    "name": "OVO Tab",
+    "url": "https://www.waylon.online/ovotab/newtab.html",
+    "description": "新标签页管理工具，支持 ChatGPT 和多功能整合。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "页面生成",
+    "developer": "octopus331",
+    "name": "图生代码",
+    "url": "https://www.octopus31.com/code/generate",
+    "description": "根据网页截图或 URL 生成前端页面代码。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "翻译工具",
+    "developer": "zggsong",
+    "name": "STranslate",
+    "url": "https://stranslate.zggsong.com",
+    "description": "即开即用的 OCR 翻译工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "黄金查询",
+    "developer": "Aissen",
+    "name": "实时金价",
+    "url": "https://goldprice.fun",
+    "description": "简洁的黄金价格查询网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "标签管理",
+    "developer": "Quanzhitong",
+    "name": "Honey Tab",
+    "url": "https://chromewebstore.google.com/detail/honey-tab/ecopjmjelpndnffeaionilmoiocbjcii?hl=zh-CN&utm_source=ext_sidebar",
+    "description": "浏览器标签管理工具，支持快捷键操作。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "OCR 插件",
+    "developer": "诸葛子房",
+    "name": "谷歌浏览器 OCR 插件",
+    "url": "https://chromewebstore.google.com/detail/ocr/cglnhoallkkhcelfbcdaglcioccollfb?hl=zh-CN&authuser=0",
+    "description": "将截图识别为文字的插件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "时间追踪",
+    "developer": "hanaTsuk1",
+    "name": "shion",
+    "url": "https://shion.app/zh/",
+    "description": "时间追踪软件，用于记录生活瞬间。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "捕获工具",
+    "developer": "Ayden",
+    "name": "ElemSnap",
+    "url": "https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna",
+    "description": "捕获网页元素并自动美化成图片的浏览器插件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图像生成工具",
+    "developer": "Ethan Sunray",
+    "name": "AI Image Generator",
+    "url": "https://aiimagegenerator.io/",
+    "description": "免费的在线 AI 文本到图像生成工具，支持多种生成类型，无需登录。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频生成工具",
+    "developer": "Ethan Sunray",
+    "name": "AI Video Generator",
+    "url": "https://videoai.cc/",
+    "description": "AI 视频生成器，支持 SVD 和 AnimateDiff 功能即将上线。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "记账应用",
+    "developer": "射手科技",
+    "name": "自记账app",
+    "url": "https://www.zijizhang.com/",
+    "description": "为创业者提供记账与自动报税服务。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "开票应用",
+    "developer": "射手科技",
+    "name": "自开票app",
+    "url": "https://www.zikaipiao.com",
+    "description": "简便开票应用，一次人脸识别即可全年开票。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "效率工具",
+    "developer": "MrPan",
+    "name": "RunFlow",
+    "url": "https://myrest.top/zh-cn/myflow",
+    "description": "类 Wox 和 Alfred 的跨平台效率工具，支持插件扩展。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "浏览器助手",
+    "developer": "Tutu",
+    "name": "kimi小助手",
+    "url": "https://chromewebstore.google.com/detail/kimi%E5%B0%8F%E5%8A%A9%E6%89%8B/lcmnamhindlgdelifemnmkecaabdglle",
+    "description": "AI 生产力工具，具备页面总结、选中翻译、代码解释等功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频管理",
+    "developer": "ideasworkcn",
+    "name": "创想家 视频拍摄管理",
+    "url": "https://vms.ideaswork.cn",
+    "description": "提升独立视频制作者的创作效率，提供管理、待办工具库。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "导航站",
+    "developer": "Kevin不会写代码",
+    "name": "节点导航站",
+    "url": "https://linktre.cc",
+    "description": "汇集跨境电商、自媒体等 AI 产品的导航站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "短链接生成",
+    "developer": "Kevin不会写代码",
+    "name": "节点链接",
+    "url": "https://links.bnyer.cn",
+    "description": "短链接生成器，助力精准获客和流量转化。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "词汇助手",
+    "developer": "Honwhy Wang",
+    "name": "新百词斩助手",
+    "url": "https://100-words.pages.dev/",
+    "description": "百词斩网页助手，支持翻译和单词收藏。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "思维脑图",
+    "developer": "ChengKeJ",
+    "name": "smind.app",
+    "url": "https://www.smind.app",
+    "description": "思维脑图应用，支持自定义主题、禅定模式、导出导入等功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "工具箱",
+    "developer": "mydearcc",
+    "name": "fly63 工具箱",
+    "url": "https://www.fly63.com/tool/home.html",
+    "description": "在线工具箱集合，提供开发文档、加密解密、格式转换等功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "背景音乐",
+    "developer": "Shichao",
+    "name": "sunost",
+    "url": "https://sunost.com",
+    "description": "为电影、游戏、短视频生成无版权背景音乐的工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "数据可视化",
+    "developer": "eilong",
+    "name": "ViBoard",
+    "url": "https://nniai.com",
+    "description": "跨平台数据可视化工具，支持高端图表展示。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "诗词学习",
+    "developer": "javayhu",
+    "name": "海棠诗社",
+    "url": "https://haitang.app",
+    "description": "古诗词学习和创作平台，支持全局搜索和暗黑模式。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "开发者导航",
+    "developer": "javayhu",
+    "name": "独立开发者导航站",
+    "url": "https://www.indiehackers.site",
+    "description": "为独立开发者汇集各种产品工具和指南。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "NAS 应用",
+    "developer": "为大宝宝",
+    "name": "DS Cloud",
+    "url": "https://apps.apple.com/cn/app/id6476057278",
+    "description": "支持文件管理、视频播放和音频播放的 NAS 应用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI写作",
+    "developer": "Mose",
+    "name": "AI Undetect",
+    "url": "https://www.aiundetect.com/",
+    "description": "绕过 AI 检测器的 AI 写作工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI改写工具",
+    "developer": "Mose",
+    "name": "AI Humanizer",
+    "url": "https://aihumanize.io/",
+    "description": "AI 改写工具，专注于 SEO 优化。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "设计工具",
+    "developer": "欧维Ove",
+    "name": "简单设计",
+    "url": "https://www.jiandan.link",
+    "description": "支持设计海报、LOGO、封面图等，提供图片压缩和格式转换功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "量化交易",
+    "developer": "didid",
+    "name": "Minitrade",
+    "url": "https://dodid.github.io/minitrade/",
+    "description": "为个人投资者设计的量化回测交易系统。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Markdown 转图片",
+    "developer": "didid",
+    "name": "在线Markdown转图片",
+    "url": "https://markdown2image.streamlit.app",
+    "description": "将 Markdown 转换为图片，适合发布内容。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "成绩分析",
+    "developer": "didid",
+    "name": "北京四中考试成绩分析",
+    "url": "https://examstats.streamlit.app",
+    "description": "考试成绩可视化和分析工具，适合替换成其他学校数据。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "IP 工具箱",
+    "developer": "阿禅 Jason Ng",
+    "name": "MyIP",
+    "url": "https://ipcheck.ing/",
+    "description": "多功能 IP 工具箱。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "美股日历",
+    "developer": "阿禅 Jason Ng",
+    "name": "OhEarningsCal",
+    "url": "https://stock.retire.money/",
+    "description": "美股财报日历自动化订阅工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "屏保工具",
+    "developer": "阿禅 Jason Ng",
+    "name": "Macify",
+    "url": "https://chromewebstore.google.com/detail/macify-macos-screensaver/lgdipcalomggcjkohjhkhkbcpgladnoe?hl=en",
+    "description": "将 Chrome 新标签页变成 macOS 屏保样式。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "退休计算",
+    "developer": "阿禅 Jason Ng",
+    "name": "躺平计算器",
+    "url": "https://retire.money/",
+    "description": "根据资产和通胀率计算退休可行性。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "DIY应用",
+    "developer": "爱心发电丶",
+    "name": "万物皆可DIY",
+    "url": "https://douyin.nicen.cn/m.html",
+    "description": "在线 DIY 制作手机壳、衣服、抱枕等物品。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "社交工具",
+    "developer": "BindBook",
+    "name": "BindBook",
+    "url": "https://s21.ax1x.com/2024/03/31/pF7mmKx.png",
+    "description": "社交关系记录小程序，提供倒数日提醒等功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "旅行相册",
+    "developer": "H寒峰",
+    "name": "TTW: Travel Memoir",
+    "url": "https://apps.apple.com/us/app/ttw-travel-memoir-from-photos/id6473322389",
+    "description": "旅行相册生成工具，通过照片生成旅行时间线。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "围棋连线",
+    "developer": "奔跑的小山猪",
+    "name": "阿Q连线器",
+    "url": "https://www.pgyer.com/connector",
+    "description": "通用围棋 AI 连线器，适合看棋和学习。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "围棋记谱",
+    "developer": "奔跑的小山猪",
+    "name": "阿Q对弈宝",
+    "url": "https://www.pgyer.com/aqrecorder",
+    "description": "自动记谱工具，让棋盘智能化。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "围棋棋钟",
+    "developer": "奔跑的小山猪",
+    "name": "阿Q棋钟",
+    "url": "https://www.pgyer.com/aqclock",
+    "description": "美观易用的围棋、象棋棋钟软件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "实用工具箱",
+    "developer": "鸭鸭「カモ」",
+    "name": "芙芙工具箱",
+    "url": "https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/",
+    "description": "Windows 上的开源工具箱，支持快捷操作。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "截图美化",
+    "developer": "SleepyZone",
+    "name": "Photor - 截图美化",
+    "url": "https://www.photor.fun/",
+    "description": "截图美化工具，支持在线版、浏览器插件等。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片编辑",
+    "developer": "SleepyZone",
+    "name": "fabritor",
+    "url": "https://fabritor.surge.sh/",
+    "description": "创意图片编辑器，适用于海报、小红书封面等设计。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI教练",
+    "developer": "Wesley",
+    "name": "White80 Football",
+    "url": "https://white80.football",
+    "description": "AI 橄榄球助理教练，支持战术分析与生成。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "面试工具",
+    "developer": "Wesley",
+    "name": "InterviewAI",
+    "url": "https://interviewai.me",
+    "description": "AI 模拟面试工具，帮助用户备考。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "饮品记录",
+    "developer": "变当",
+    "name": "记一杯",
+    "url": "https://apps.apple.com/cn/app/%E8%AE%B0%E4%B8%80%E6%9D%AF/id6478443878",
+    "description": "奶茶、咖啡、饮品记录 App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频语言转换",
+    "developer": "李志博",
+    "name": "Youtube Dubbing",
+    "url": "https://www.youtube-dubbing.com/",
+    "description": "解决在线观看视频的语言障碍。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "导师评价平台",
+    "developer": "Framist",
+    "name": "SAFC",
+    "url": "https://framist.github.io/safc/",
+    "description": "研究生导师评价平台，支持匿名查询和楼中楼回复。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "GitHub通知",
+    "developer": "Qiwei",
+    "name": "Github 自定义消息提示插件",
+    "url": "https://github.com/qiweiii/github-custom-notifier",
+    "description": "支持 GitHub 一些官方不支持的事件消息提示。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "书签同步",
+    "developer": "MarkZhao",
+    "name": "浏览器书签同步 Notion",
+    "url": "https://www.bookmarkstonotion.com",
+    "description": "浏览器书签同步至 Notion 数据库，支持子文件夹和多连接。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "加密存储",
+    "developer": "DawnRiver",
+    "name": "Meebox",
+    "url": "https://meebox.io",
+    "description": "集文本、密码、图片等于一体的加密存储 APP。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "壁纸下载",
+    "developer": "zzzmh",
+    "name": "极简壁纸",
+    "url": "https://bz.zzzmh.cn",
+    "description": "PC 壁纸在线预览和下载网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "浏览器插件",
+    "developer": "zzzmh",
+    "name": "极简插件",
+    "url": "https://chrome.zzzmh.cn",
+    "description": "Chrome 浏览器插件下载网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "临时邮箱",
+    "developer": "oiov",
+    "name": "vmail",
+    "url": "https://vmail.dev",
+    "description": "临时邮箱生成工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 图像工具",
+    "developer": "Ethan Sunray",
+    "name": "Remove Bg",
+    "url": "https://removebg.one/",
+    "description": "100% 免费的在线 AI 抠图工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 图像修复",
+    "developer": "Ethan Sunray",
+    "name": "Restore Photos",
+    "url": "https://restorephotos.one/",
+    "description": "免费 AI 修复黑白照片和模糊人脸照片工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "内容验证",
+    "developer": "Ethan Sunray",
+    "name": "Content Credentials",
+    "url": "https://contentcredentials.io/",
+    "description": "判断线上内容真实性的开放技术，基于 C2PA 协议。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "视频搜索",
+    "developer": "Ethan Sunray",
+    "name": "Sora Build",
+    "url": "https://sora.build",
+    "description": "搜索 OpenAI Sora 视频的在线网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI事件产出",
+    "developer": "诸葛子房",
+    "name": "AI时间线",
+    "url": "http://www.ai-timeline.top",
+    "description": "AI生成事件的时间线展示。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "推荐工具",
+    "developer": "诸葛子房",
+    "name": "AI好物",
+    "url": "https://www.ai-code.online/",
+    "description": "根据需求推荐商品的 AI 工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "日记工具",
+    "developer": "oBlank",
+    "name": "简单记",
+    "url": "https://apps.apple.com/cn/app/%E7%AE%80%E5%8D%95%E8%AE%B0-noteit/id1659178001",
+    "description": "本地私密日记/记事本应用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "自我探索",
+    "developer": "甘小蔗",
+    "name": "人格九道",
+    "url": "https://enneatao.com/",
+    "description": "基于 Enneagram 理论的数字化自我探索产品。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "播客应用",
+    "developer": "j20cc",
+    "name": "小狗听听",
+    "url": "https://podcast.j20.cc/",
+    "description": "将在线视频转为本地播客的 iOS 应用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图书馆联动",
+    "developer": "honwhy",
+    "name": "Welibrary",
+    "url": "https://chromewebstore.google.com/detail/ffcdmbkbdhoplncikkpdcgknacckookm",
+    "description": "将图书网站与城市图书馆联动的 Chrome 扩展。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "交友平台",
+    "developer": "iyuhang",
+    "name": "犬岛 交友APP",
+    "url": "https://apps.apple.com/cn/app/犬岛-上岛重新认识我/id6450510581",
+    "description": "基于深度问答的高质量交友 APP。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音乐播放器",
+    "developer": "gitbobobo",
+    "name": "音流",
+    "url": "https://github.com/gitbobobo/StreamMusic",
+    "description": "支持多平台的 NAS 音乐播放器。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "简历工具",
+    "developer": "程序员热水",
+    "name": "CodeCV简历",
+    "url": "https://codecv.top",
+    "description": "高颜值简历制作工具，支持 Markdown 和 WYSIWYG。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "电商系统",
+    "developer": "huanghanzhilian",
+    "name": "C-Shopping",
+    "url": "http://shop.huanghanlian.com/",
+    "description": "精美的 Web 电商系统，功能丰富。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "海报设计",
+    "developer": "ShawnPhang",
+    "name": "迅排设计 - PosterDesign",
+    "url": "https://design.palxp.cn/home",
+    "description": "在线海报设计器，适用于多种场景。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "旅行规划",
+    "developer": "LucasChenZQ",
+    "name": "小旅星 App",
+    "url": "https://apps.apple.com/cn/app/id6468434010",
+    "description": "旅行指南与行程规划 App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "语音输入",
+    "developer": "H1DDENADM1N",
+    "name": "CapsWriter-Offline-GUI",
+    "url": "https://github.com/H1DDENADM1N/CapsWriter-Offline",
+    "description": "离线语音输入工具，支持多语言翻译和字幕转录。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "工具集",
+    "developer": "TrumanDu",
+    "name": "Toolkit",
+    "url": "http://toolkit.trumandu.top/",
+    "description": "极简、插件化的工具集。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "设计工具",
+    "developer": "morestrive",
+    "name": "yft在线设计",
+    "url": "https://yft.design",
+    "description": "基于 canvas 的设计工具，支持导入 PDF 模板。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "诗词学习",
+    "developer": "meetqy",
+    "name": "aspoem",
+    "url": "https://aspoem.com",
+    "description": "现代化诗词学习网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "网站导航",
+    "developer": "菩提尘埃",
+    "name": "奇趣网站",
+    "url": "https://qiqu.dreamthere.cn",
+    "description": "提供没见过的奇趣网站导航。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "创意导航",
+    "developer": "菩提尘埃",
+    "name": "创意导航",
+    "url": "https://idea.dreamthere.cn",
+    "description": "提供独特的网站链接导航服务。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI记账",
+    "developer": "AtlanticF",
+    "name": "AI语音记账",
+    "url": "https://github.com/AtlanticF/chinese-independent-developer/assets/14820026/83165766-9dca-47fb-a475-49892f1f719c",
+    "description": "微信小程序，通过 AI 语音识别实现记账。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片素材",
+    "developer": "zhenming",
+    "name": "xldream",
+    "url": "https://www.xldream.com",
+    "description": "免费 AIGC 图片素材网。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "收藏管理",
+    "developer": "shartoo",
+    "name": "webhub123",
+    "url": "https://www.webhub123.com/#/home/more",
+    "description": "跨站收藏夹，管理和分享网站链接。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片编辑",
+    "developer": "Zoyou",
+    "name": "PhotoFun",
+    "url": "https://www.photofun.cn/",
+    "description": "在线图片编辑和压缩工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Markdown便签",
+    "developer": "Qiwei",
+    "name": "Markdown Sticky Note",
+    "url": "https://chrome.google.com/webstore/detail/aiakblgmlabokilgljkglggnpflljdgp",
+    "description": "浏览器插件，可以在网页创建 Markdown 便签。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "漏洞情报",
+    "developer": "Fooying",
+    "name": "SEC.CAFE安全咖啡",
+    "url": "https://sec.cafe",
+    "description": "安全漏洞情报聚合平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI工具导航",
+    "developer": "AILOOKME",
+    "name": "AI工具箱",
+    "url": "https://www.ailookme.com",
+    "description": "人工智能领域的工具导航网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "潮汐查询",
+    "developer": "潮汐表表",
+    "name": "潮汐表表",
+    "url": "http://images.75271.com/wp-content/uploads/2024/01/2024012208223581.jpg",
+    "description": "出行必备潮汐查询小程序。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Chat客户端",
+    "developer": "flyun",
+    "name": "ChatAir",
+    "url": "https://github.com/flyun/chatAir",
+    "description": "OpenAI 和 Gemini 的原生 Android 客户端。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "心理咨询",
+    "developer": "Jebberwocky",
+    "name": "我不会说出去",
+    "url": "http://chat.colbt.cc/",
+    "description": "匿名心理咨询和情绪宣泄工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "简历生成",
+    "developer": "刚师傅",
+    "name": "简约简历",
+    "url": "https://jianli.online",
+    "description": "在线简历创建工具，支持在线预览和生成 PDF。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片压缩",
+    "developer": "刚师傅",
+    "name": "RepicApp",
+    "url": "https://repic.cc",
+    "description": "图片压缩工具，支持压缩前后细节对比。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片压缩",
+    "developer": "Tans",
+    "name": "Photo Mint",
+    "url": "https://github.com/tans/photo-mint.git",
+    "description": "基于 Tauri 的开源图片批量压缩工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "诗词游戏",
+    "developer": "王君敕",
+    "name": "拼拼古诗",
+    "url": "https://wangxuan.me/chinese_poem/",
+    "description": "古诗拼图小游戏，涵盖唐诗三百首及教材诗词。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "翻译插件",
+    "developer": "ThinkStu",
+    "name": "流畅阅读",
+    "url": "https://github.com/Bistutu/FluentRead",
+    "description": "AI 翻译浏览器插件，支持多种 AI 模型。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "简历制作",
+    "developer": "Xiao Hanyu",
+    "name": "PPResume",
+    "url": "https://ppresume.com",
+    "description": "基于 LaTeX 的高质量简历制作 Web App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "文件聚合",
+    "developer": "windowye",
+    "name": "CoSS",
+    "url": "https://w-coss.space",
+    "description": "主流文件存储和操作服务聚合平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音乐氛围",
+    "developer": "FreeMind-LJ",
+    "name": "FreeMind",
+    "url": "https://freemind.fit",
+    "description": "轻松创建宁静的音乐氛围，灵感来源于自然。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Redis 客户端",
+    "developer": "Lykin",
+    "name": "Tiny RDM",
+    "url": "https://redis.tinycraft.cc/zh/",
+    "description": "美观、轻量的 Redis 桌面客户端。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "互动游戏",
+    "developer": "Fun",
+    "name": "17fei.fun",
+    "url": "https://17fei.fun",
+    "description": "情侣互动小游戏集合。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "SVG 图标生成器",
+    "developer": "yesmore",
+    "name": "iconce",
+    "url": "https://iconce.com",
+    "description": "在线 SVG 图标生成工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片分享",
+    "developer": "ddd702",
+    "name": "DE好图壁纸",
+    "url": "https://raw.githubusercontent.com/ddd702/learnfe/main/bovi8x8htx.png",
+    "description": "图片、壁纸分享小程序。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "创意画板",
+    "developer": "Leo",
+    "name": "Paint Board",
+    "url": "https://songlh.top/paint-board/",
+    "description": "多端支持的创意画板。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "落地页构建",
+    "developer": "罗伊",
+    "name": "EarlyBird",
+    "url": "https://earlybird.im",
+    "description": "快速搭建产品落地页的低代码工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "个人品牌页面",
+    "developer": "罗伊",
+    "name": "Jing Bio",
+    "url": "https://jingle.bio",
+    "description": "创建优雅的个人品牌页面。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "表单工具",
+    "developer": "罗伊",
+    "name": "HeyForm",
+    "url": "https://heyform.net",
+    "description": "对话式表单创建工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "截图美化",
+    "developer": "罗伊",
+    "name": "TinySnap",
+    "url": "https://tinysnap.app",
+    "description": "截图美化工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "甘特图工具",
+    "developer": "lizhichao",
+    "name": "在线甘特图工具",
+    "url": "https://zz-plan.com",
+    "description": "支持在线使用及私有化部署的甘特图工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "数据匹配",
+    "developer": "peacefullmind",
+    "name": "易匹配",
+    "url": "https://www.yipipei.com/",
+    "description": "表格数据匹配工具，支持模糊匹配。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "页面制作",
+    "developer": "MrXujiang",
+    "name": "h5-dooring",
+    "url": "https://github.com/MrXujiang/h5-Dooring",
+    "description": "零代码页面搭建平台，开箱即用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "智能手表工具",
+    "developer": "GenOuka",
+    "name": "Rare计划",
+    "url": "https://rare.genouka.rr.nu/",
+    "description": "提升智能手表使用体验的应用集合。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "翻译插件",
+    "developer": "ThinkStu",
+    "name": "流畅阅读",
+    "url": "https://github.com/Bistutu/FluentRead",
+    "description": "基于 AI 的浏览器翻译插件，提供母语阅读体验。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "音乐分离",
+    "developer": "jianchang512",
+    "name": "人声和背景音乐分离工具",
+    "url": "https://github.com/jianchang512/vocal-separate",
+    "description": "本地化人声和背景音乐分离工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "声音克隆",
+    "developer": "jianchang512",
+    "name": "CV 声音克隆工具",
+    "url": "https://github.com/jianchang512/clone-voice",
+    "description": "声音克隆工具，可将文字转换为指定音色的语音。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "浏览插件",
+    "developer": "风逝",
+    "name": "Tabs Fast Easy",
+    "url": "https://chromewebstore.google.com/detail/tabs-fast-easy/falglioamaogaliloglbhkannkjlpjil",
+    "description": "Tab 页管理插件，简化分组和专注体验。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "变量命名",
+    "developer": "webjuzi",
+    "name": "变量命名",
+    "url": "https://www.inav.site/tools/#/p/var/var",
+    "description": "中文自动翻译变量名并复制到剪切板。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "API 共享平台",
+    "developer": "menglike",
+    "name": "免费API共享平台",
+    "url": "https://www.liangmlk.cn",
+    "description": "提供免费 API 共享，包含400+ 接口。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "资讯网站",
+    "developer": "FreeMind-LJ",
+    "name": "什么值得看",
+    "url": "https://smzdk.top",
+    "description": "简洁的全球热点资讯网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "数数游戏",
+    "developer": "heygsc",
+    "name": "数数游戏",
+    "url": "https://count-puzzle.pages.dev/",
+    "description": "简洁的数数游戏，交互细节人性化。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "云剪切板",
+    "developer": "j20cc",
+    "name": "云剪切板",
+    "url": "https://cv.j20.cc",
+    "description": "支持 web 和 curl 的无依赖剪切板工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图床工具",
+    "developer": "j20cc",
+    "name": "Github 图床",
+    "url": "https://pic.j20.cc",
+    "description": "将 Github 仓库用作免费图床。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Steam 工具",
+    "developer": "CSBuyer",
+    "name": "Steam 自动捡漏机器人",
+    "url": "https://www.csbuyer.com",
+    "description": "自动购买低磨损 CS:GO 饰品的工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "地址生成",
+    "developer": "CSBuyer",
+    "name": "美国免税地址生成器",
+    "url": "https://www.csbuyer.com/workbench/address",
+    "description": "自动生成用于 Steam 美区账号的美国免税地址。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "歌单迁移",
+    "developer": "ThinkStu",
+    "name": "音乐歌单迁移助手",
+    "url": "https://music.unmeta.cn/",
+    "description": "支持网易云、QQ 音乐到 Apple Music、Spotify 等的歌单迁移。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "JSON 格式化",
+    "developer": "bimohxh",
+    "name": "JSONT",
+    "url": "https://www.jsont.run/",
+    "description": "强大的 JSON 格式化工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI Launcher",
+    "developer": "ysnows",
+    "name": "Enconvo",
+    "url": "https://enconvo.com",
+    "description": "Mac Copilot 客户端的 AI Launcher。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "词挖掘工具",
+    "developer": "简具科技",
+    "name": "抖音高转化精准词获取工具",
+    "url": "http://jianju.3ddysj.com/douyinxialachi.html",
+    "description": "自动挖掘抖音热词，分析高转化词。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 选股工具",
+    "developer": "yvonuk",
+    "name": "StockAI.Trade",
+    "url": "https://stockai.trade/",
+    "description": "基于 ChatGPT 的免费 AI 选股分析网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "语音备忘",
+    "developer": "VOME",
+    "name": "VOME",
+    "url": "https://apps.apple.com/au/app/vome/id6468956601",
+    "description": "极简的语音转文字 Memo 应用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "播客管理",
+    "developer": "硬地骇客",
+    "name": "Podwise",
+    "url": "https://podwise.xyz/",
+    "description": "专为播客设计的 AI 知识管理应用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Web 笔记",
+    "developer": "yesmore",
+    "name": "Inke笔记",
+    "url": "https://inke.app",
+    "description": "集成 AI 写作和多人协作的 Web 笔记本。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "PowerPoint 生成",
+    "developer": "Selenium39",
+    "name": "ChatPPT",
+    "url": "http://chatppt.closeai.red",
+    "description": "使用 ChatGPT-4 快速创建 PowerPoint。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "百词斩助手",
+    "developer": "marmot-z",
+    "name": "百词斩助手",
+    "url": "https://www.bilibili.com/video/BV1zj411Z7LM",
+    "description": "实时与百词斩协作的翻译插件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "智能代理",
+    "developer": "changwu",
+    "name": "虾答",
+    "url": "https://xiada.cn",
+    "description": "BestGPT + 知识库 AI，用于创建个人智能代理。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "周刊",
+    "developer": "soar",
+    "name": "偷懒爱好者周刊",
+    "url": "https://toolight.zhubai.love/",
+    "description": "每周三发布的产品、工具和资讯分享周刊。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 助手平台",
+    "developer": "assmdx",
+    "name": "文丑",
+    "url": "https://wenchou.top",
+    "description": "AI 助手平台。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 导航",
+    "developer": "菩提尘埃",
+    "name": "AI导航",
+    "url": "https://ai.dreamthere.cn",
+    "description": "推荐优质 AI 网站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "表情小程序",
+    "developer": "beijing",
+    "name": "表情小程序-前后台源码",
+    "url": "https://ext.dcloud.net.cn/plugin?id=14972",
+    "description": "开源斗图表情小程序。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "HTTPS 证书服务",
+    "developer": "ohttps",
+    "name": "OHTTPS",
+    "url": "https://ohttps.com/",
+    "description": "提供 HTTPS 证书申请及自动化服务，支持云服务和 Docker。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "单位换算工具",
+    "developer": "Jessen Wang",
+    "name": "极简换算",
+    "url": "https://apps.apple.com/cn/app/id6448924181",
+    "description": "高效简洁的单位换算和效率计算器 iOS App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "诗词阅读",
+    "developer": "hefengbao",
+    "name": "京墨",
+    "url": "https://github.com/hefengbao/jingmo/releases",
+    "description": "古诗词、成语阅读 Android App，开源免费。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "服务器监控",
+    "developer": "codelover",
+    "name": "MyServers",
+    "url": "https://myservers.codeloverme.cn/",
+    "description": "管理服务器和个人应用的监控 App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "协作平台",
+    "developer": "sx1989827",
+    "name": "Teamlinker",
+    "url": "https://team-linker.com/",
+    "description": "团队协作平台，支持联系成员、分配任务、安排会议等。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 能力聚合",
+    "developer": "未道科技",
+    "name": "未道帮",
+    "url": "https://helper.aiwave.cc/",
+    "description": "AI 能力聚合站，支持 GPT4、Stable Diffusion 等 AI 功能。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 工具导航",
+    "developer": "未道科技",
+    "name": "AIGC工具导航",
+    "url": "https://nav.aiwave.cc/",
+    "description": "海量 AI 工具导航站。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片处理",
+    "developer": "未道科技",
+    "name": "AI抠图",
+    "url": "https://cutout.aiwave.cc/",
+    "description": "自动去除图片背景。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "敲木鱼工具",
+    "developer": "marticztn",
+    "name": "简约木鱼",
+    "url": "https://apps.apple.com/cn/app/id6445845846",
+    "description": "最简单好用的敲木鱼 App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "相册导出",
+    "developer": "简具科技",
+    "name": "QQ 空间相册导出工具",
+    "url": "http://jianju.3ddysj.com/qqkongjian.html",
+    "description": "下载 QQ 空间相册图片的工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 助手",
+    "developer": "xerduo",
+    "name": "iChat",
+    "url": "https://ichatt.cn",
+    "description": "支持 ChatGPT 等 AI 助手，支持多语言朗读。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "游戏",
+    "developer": "xerduo",
+    "name": "tetris",
+    "url": "https://tetris.duqing.ink",
+    "description": "俄罗斯方块游戏，适配 H5 支持 AI。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "笔记工具",
+    "developer": "Lost",
+    "name": "MyNotes Keeper",
+    "url": "https://www.mynoteskeeper.com",
+    "description": "Windows 大纲笔记软件，提供免费版本。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "情侣工具",
+    "developer": "Leon",
+    "name": "情侣100件事",
+    "url": "https://apps.apple.com/app/%E6%83%85%E4%BE%A3100%E4%BB%B6%E4%BA%8B/id6461458836",
+    "description": "爱情旅程的浪漫伴侣 App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "桌面组件库",
+    "developer": "陈建利",
+    "name": "DeskWidgets",
+    "url": "https://apps.apple.com/us/app/deskwidgets/id6446226257?mt=12",
+    "description": "macOS 桌面组件库。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 绘图",
+    "developer": "极客学伟",
+    "name": "AI画图王",
+    "url": "https://apps.apple.com/app/id6505048186",
+    "description": "AI 文本生成图片的应用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "习惯养成",
+    "developer": "极客学伟",
+    "name": "加一 - 自律打卡",
+    "url": "https://apps.apple.com/app/id1477743089",
+    "description": "自律打卡习惯养成工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "iOS 工具",
+    "developer": "极客学伟",
+    "name": "灵动岛小组件",
+    "url": "https://apps.apple.com/app/id6464542768",
+    "description": "灵动岛/锁屏小组件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "自动化工具",
+    "developer": "一刀",
+    "name": "Hamibot遥控器",
+    "url": "https://github.com/laosanyuan/HamibotRemoteControl",
+    "description": "Hamibot 自动化工具，支持 iOS 和 Android。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "微信群爬虫",
+    "developer": "一刀",
+    "name": "火浣",
+    "url": "https://github.com/laosanyuan/HuoHuan",
+    "description": "获取微信群聊二维码的 Windows 工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "代码转换",
+    "developer": "JustAIGithub",
+    "name": "AICodeConvert",
+    "url": "https://aicodeconvert.com/",
+    "description": "自然语言转代码，跨语言代码转换。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "原神对话",
+    "developer": "limaoyi1",
+    "name": "Genshin-GPT",
+    "url": "http://www.limaoyi.top:4400/",
+    "description": "模仿原神角色的对话 GPT，支持与角色互动。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "用药查询",
+    "developer": "叫我强哥",
+    "name": "不懂药问",
+    "url": "https://www.v2ex.com/t/962506",
+    "description": "查询医保用药的微信小程序。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "图片压缩",
+    "developer": "Dreamer365",
+    "name": "极速图片压缩器",
+    "url": "https://github.com/Dreamer365/topspeed-image-compressor",
+    "description": "速度极快的图片压缩软件。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "DevOps 工具",
+    "developer": "booboosui",
+    "name": "DevOpsGPT",
+    "url": "http://www.kuafuai.net/devopsgpt",
+    "description": "将需求转化为可工作软件的 AI 工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "塔罗占卜",
+    "developer": "discountry",
+    "name": "SigniFi",
+    "url": "https://www.signifi.life/",
+    "description": "AI 塔罗牌占卜 DApp。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "背单词",
+    "developer": "heygsc",
+    "name": "单词之风",
+    "url": "https://word-wind.pages.dev/",
+    "description": "简洁的背单词页面，词库丰富。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "AI 绘图",
+    "developer": "五块一",
+    "name": "机画师",
+    "url": "https://apps.apple.com/us/app/id1644645946",
+    "description": "基于 Stable Diffusion 的 AI 绘图 App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "文件系统",
+    "developer": "hoochanlon",
+    "name": "Nigate",
+    "url": "https://github.com/hoochanlon/Free-NTFS-For-Mac",
+    "description": "支持苹果芯片的 Free NTFS for Mac 工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "按键检测",
+    "developer": "Sunrisepeak",
+    "name": "KHistory",
+    "url": "https://github.com/Sunrisepeak/KHistory",
+    "description": "跨平台按键检测及历史记录工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "Markdown 笔记",
+    "developer": "Tw93",
+    "name": "妙言",
+    "url": "https://github.com/tw93/MiaoYan",
+    "description": "轻灵的 Markdown 笔记本应用。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "RPG 游戏",
+    "developer": "Tan",
+    "name": "DenoPark",
+    "url": "https://denopark.com",
+    "description": "打字 RPG 游戏，记忆快捷键和单词。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "预测跟踪",
+    "developer": "张土福",
+    "name": "Foresee",
+    "url": "https://apps.apple.com/cn/app/foresee-predictions-tracker/id6447700092",
+    "description": "预测跟踪应用，帮助提升判断力。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "白噪音工具",
+    "developer": "GGBond",
+    "name": "雨巷",
+    "url": "https://apps.apple.com/us/app/%E9%9B%A8%E5%B7%B7/id1619940076",
+    "description": "专为程序员设计的白噪音工具。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "心情记录",
+    "developer": "Patrick",
+    "name": "MoodUp",
+    "url": "https://apps.apple.com/us/app/moodup-breeze-mental-health/id6450100126",
+    "description": "记录心情和情绪管理的日记 App。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "ChatGPT 客户端",
+    "developer": "Airsaid",
+    "name": "ChatBoost",
+    "url": "https://play.google.com/store/apps/details?id=studio.muggle.chatboost",
+    "description": "Android 原生 ChatGPT 客户端。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "数字拼图",
+    "developer": "Airsaid",
+    "name": "数字华容道",
+    "url": "https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle",
+    "description": "经典数字拼图智力小游戏。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  },
+  {
+    "category": "休闲游戏",
+    "developer": "Airsaid",
+    "name": "点点",
+    "url": "https://play.google.com/store/apps/details?id=com.mugglegame.dotdot",
+    "description": "连点成线的休闲小游戏。",
+    "stars": null,
+    "pushed_at": null,
+    "homepage": null
+  }
+]
