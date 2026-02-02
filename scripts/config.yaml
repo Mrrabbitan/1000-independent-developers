@@ -1,0 +1,113 @@
+{
+  "github": {
+    "api_base": "https://api.github.com",
+    "per_page": 100,
+    "max_pages": 2,
+    "min_stars": 20,
+    "max_new_per_run": 30,
+    "max_total": 1200,
+    "pushed_within_days": 365,
+    "sleep_seconds": 1,
+    "include_owner_location": false,
+    "max_description_length": 140
+  },
+  "filters": {
+    "exclude_keywords": [
+      "awesome",
+      "list",
+      "collection",
+      "curated",
+      "resources",
+      "resource",
+      "合集",
+      "汇总",
+      "清单",
+      "列表",
+      "大全",
+      "资料",
+      "资源",
+      "收集整理",
+      "收集",
+      "整理",
+      "收录"
+    ],
+    "exclude_topics": [
+      "awesome",
+      "awesome-list",
+      "resources",
+      "resource",
+      "curated",
+      "collection",
+      "list"
+    ],
+    "prefer_homepage": true,
+    "require_homepage": false,
+    "prune_existing": true
+  },
+  "queries": [
+    {
+      "q": "\"独立开发者\" in:readme,description",
+      "sort": "stars",
+      "order": "desc"
+    },
+    {
+      "q": "\"独立开发\" in:readme,description",
+      "sort": "stars",
+      "order": "desc"
+    },
+    {
+      "q": "\"side project\" in:readme,description",
+      "sort": "stars",
+      "order": "desc"
+    },
+    {
+      "q": "indie in:readme,description,topics",
+      "sort": "stars",
+      "order": "desc"
+    },
+    {
+      "q": "topic:indie topic:side-project",
+      "sort": "stars",
+      "order": "desc"
+    }
+  ],
+  "categories": [
+    {
+      "name": "AI图像工具",
+      "keywords": ["image", "img", "photo", "avatar", "图像", "图片", "抠图", "修图", "图生", "绘画", "midjourney", "stable diffusion"]
+    },
+    {
+      "name": "AI视频生成",
+      "keywords": ["video", "视频", "剪辑", "生成视频", "短视频", "sora", "veo"]
+    },
+    {
+      "name": "AI音频工具",
+      "keywords": ["audio", "voice", "sound", "音乐", "音频", "语音", "tts", "asr"]
+    },
+    {
+      "name": "AI文本工具",
+      "keywords": ["text", "写作", "文案", "润色", "翻译", "摘要", "prompt"]
+    },
+    {
+      "name": "开发者工具",
+      "keywords": ["developer", "cli", "sdk", "api", "framework", "库", "脚手架", "模板", "工具链"]
+    },
+    {
+      "name": "效率工具",
+      "keywords": ["todo", "task", "note", "笔记", "日程", "效率", "习惯", "提醒"]
+    },
+    {
+      "name": "图片工具",
+      "keywords": ["jpg", "png", "svg", "webp", "压缩", "转换", "裁剪"]
+    },
+    {
+      "name": "学习工具",
+      "keywords": ["学习", "词汇", "课程", "考试", "教育", "背单词"]
+    },
+    {
+      "name": "AI工具平台",
+      "keywords": ["ai tools", "导航", "目录", "toolbox", "工具箱"]
+    }
+  ],
+  "category_default": "其他工具"
+}
